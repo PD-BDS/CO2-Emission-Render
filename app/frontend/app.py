@@ -10,7 +10,8 @@ st.set_page_config(
     layout="wide"
 )
 
-API = os.getenv("BACKEND_URL", "/api")
+API = os.getenv("BACKEND_URL", "http://localhost:8000/api")
+
 
 st.title("🌍CO₂ Emission Forecasting Dashboard")
 
