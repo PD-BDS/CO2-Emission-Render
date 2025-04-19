@@ -1,0 +1,182 @@
+2025-04-13 15:27:38,275 - INFO - Fetching the last date from the database.
+2025-04-13 15:27:38,348 - INFO - No date found in the database.
+2025-04-13 15:27:38,349 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-13 15:27:38,350 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-13 15:43:43,630 - INFO - Fetched 1191983 records from the API.
+2025-04-13 15:45:13,410 - INFO - Processing and aggregating 1191983 records.
+2025-04-13 15:45:53,545 - INFO - Aggregated data to 19896 records.
+2025-04-13 15:45:53,549 - INFO - Adding features to 19896 records.
+2025-04-13 15:45:53,641 - INFO - Feature engineering completed with 19885 records.
+2025-04-13 15:45:53,644 - INFO - Storing data to database.
+2025-04-13 15:45:58,004 - INFO - Data successfully stored in the database and log updated.
+2025-04-13 15:45:58,366 - INFO - Pipeline executed successfully.
+2025-04-13 15:52:47,603 - INFO - Fetching the last date from the database.
+2025-04-13 15:52:47,638 - INFO - Last date from the database: 2025-04-08 23:00:00
+2025-04-13 15:52:47,640 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-13 15:52:47.640505
+2025-04-13 15:52:47,641 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-13 15:52:47.640505 using API.
+2025-04-13 15:52:51,182 - INFO - Fetched 6700 records from the API.
+2025-04-13 15:52:51,187 - INFO - Processing and aggregating 6700 records.
+2025-04-13 15:52:51,261 - INFO - Aggregated data to 112 records.
+2025-04-13 15:52:51,262 - INFO - Adding features to 112 records.
+2025-04-13 15:52:51,278 - INFO - Feature engineering completed with 101 records.
+2025-04-13 15:52:51,278 - INFO - Storing data to database.
+2025-04-13 15:52:51,462 - INFO - Data successfully stored in the database and log updated.
+2025-04-13 15:52:51,477 - INFO - Pipeline executed successfully.
+2025-04-13 16:16:22,825 - INFO - Fetching the last date from the database.
+2025-04-13 16:16:22,930 - INFO - Last date from the database: 2025-04-13 15:00:00
+2025-04-13 16:16:22,931 - INFO - Fetching data from 2025-04-13 16:00:00 to 2025-04-13 16:16:22.931799
+2025-04-13 16:16:22,932 - INFO - Fetching data from 2025-04-13 16:00:00 to 2025-04-13 16:16:22.931799 using API.
+2025-04-13 16:16:24,628 - INFO - Fetched 16 records from the API.
+2025-04-13 16:16:24,629 - INFO - Processing and aggregating 16 records.
+2025-04-13 16:16:24,763 - INFO - Aggregated data to 1 records.
+2025-04-13 16:16:24,765 - INFO - Adding features to 1 records.
+2025-04-13 16:16:24,803 - INFO - Feature engineering completed with 0 records.
+2025-04-13 16:16:24,806 - WARNING - No valid data after processing. Skipping storage.
+2025-04-13 16:54:31,590 - INFO - Fetching the last date from the database.
+2025-04-13 16:54:31,599 - INFO - Last date from the database: 2025-04-13 15:00:00
+2025-04-13 16:54:31,601 - INFO - Fetching data from 2025-04-13 16:00:00 to 2025-04-13 16:54:31.601310
+2025-04-13 16:54:31,601 - INFO - Fetching data from 2025-04-13 16:00:00 to 2025-04-13 16:54:31.601310 using API.
+2025-04-13 16:54:31,978 - INFO - Fetched 54 records from the API.
+2025-04-13 16:54:31,979 - INFO - Processing and aggregating 54 records.
+2025-04-13 16:54:32,041 - INFO - Aggregated data to 1 records.
+2025-04-13 16:54:32,042 - INFO - Adding features to 1 records.
+2025-04-13 16:54:32,061 - INFO - Feature engineering completed with 0 records.
+2025-04-13 16:54:32,062 - WARNING - No valid data after processing. Skipping storage.
+2025-04-13 17:40:57,257 - INFO - Fetching the last date from the database.
+2025-04-13 17:40:57,271 - ERROR - Unexpected error while fetching last date: Execution failed on sql 'SELECT MAX(TimeStamp) AS last_date FROM aggregated_data': no such table: aggregated_data
+2025-04-13 17:40:57,272 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-13 17:40:57,272 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-13 17:43:07,565 - INFO - Fetching the last date from the database.
+2025-04-13 17:43:07,613 - INFO - No date found in the database.
+2025-04-13 17:43:07,614 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-13 17:43:07,615 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-13 17:59:19,904 - INFO - Fetching the last date from the database.
+2025-04-13 17:59:19,924 - INFO - No date found in the database.
+2025-04-13 17:59:19,925 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-13 17:59:19,925 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-13 18:12:26,180 - INFO - Fetching the last date from the database.
+2025-04-13 18:12:26,201 - INFO - No date found in the database.
+2025-04-13 18:12:26,201 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-13 18:12:26,202 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-13 18:40:53,940 - INFO - Fetching the last date from the database.
+2025-04-13 18:40:53,954 - INFO - No date found in the database.
+2025-04-13 18:40:53,954 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-13 18:40:53,954 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-13 18:54:07,623 - INFO - Fetched 1191983 records from the API.
+2025-04-13 18:54:49,123 - INFO - Processing and aggregating 1191983 records.
+2025-04-13 18:55:18,503 - INFO - Aggregated data to 19896 records.
+2025-04-13 18:55:18,510 - INFO - Adding features to 19896 records.
+2025-04-13 18:55:18,621 - INFO - Feature engineering completed with 19885 records.
+2025-04-13 18:55:18,626 - INFO - Storing data to database.
+2025-04-13 18:55:21,925 - INFO - Data successfully stored in the database and log updated.
+2025-04-13 18:55:22,122 - INFO - Pipeline executed successfully.
+2025-04-13 18:57:29,660 - INFO - Fetching the last date from the database.
+2025-04-13 18:57:29,677 - INFO - Last date from the database: 2025-04-08 23:00:00
+2025-04-13 18:57:29,678 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-13 18:57:29.678764
+2025-04-13 18:57:29,679 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-13 18:57:29.678764 using API.
+2025-04-13 18:57:37,939 - INFO - Fetched 6885 records from the API.
+2025-04-13 18:57:37,945 - INFO - Processing and aggregating 6885 records.
+2025-04-13 18:57:37,974 - INFO - Aggregated data to 115 records.
+2025-04-13 18:57:37,974 - INFO - Adding features to 115 records.
+2025-04-13 18:57:37,981 - INFO - Feature engineering completed with 104 records.
+2025-04-13 18:57:37,982 - INFO - Storing data to database.
+2025-04-13 18:57:38,119 - INFO - Data successfully stored in the database and log updated.
+2025-04-13 18:57:38,130 - INFO - Pipeline executed successfully.
+2025-04-14 11:01:44,577 - INFO - Fetching the last date from the database.
+2025-04-14 11:01:44,601 - INFO - Last date from the database: 2025-04-08 23:00:00
+2025-04-14 11:01:44,602 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-14 11:01:44.602776
+2025-04-14 11:01:44,603 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-14 11:01:44.602776 using API.
+2025-04-14 11:01:48,263 - INFO - Fetched 7849 records from the API.
+2025-04-14 11:01:48,268 - INFO - Processing and aggregating 7849 records.
+2025-04-14 11:01:48,307 - INFO - Aggregated data to 132 records.
+2025-04-14 11:01:48,308 - INFO - Adding features to 132 records.
+2025-04-14 11:01:48,319 - INFO - Feature engineering completed with 121 records.
+2025-04-14 11:01:48,320 - INFO - Storing data to database.
+2025-04-14 11:01:48,412 - INFO - Data successfully stored in the database and log updated.
+2025-04-14 11:01:48,423 - INFO - Pipeline executed successfully.
+2025-04-14 11:09:37,646 - INFO - Fetching the last date from the database.
+2025-04-14 11:09:37,656 - INFO - Last date from the database: 2025-04-14 11:00:00
+2025-04-14 11:09:37,657 - INFO - Fetching data from 2025-04-14 12:00:00 to 2025-04-14 11:09:37.657481
+2025-04-14 11:09:37,658 - INFO - Fetching data from 2025-04-14 12:00:00 to 2025-04-14 11:09:37.657481 using API.
+2025-04-14 11:09:37,966 - INFO - Fetched 0 records from the API.
+2025-04-14 11:09:37,967 - WARNING - No data fetched. Skipping pipeline execution.
+2025-04-14 11:36:30,329 - INFO - Fetching the last date from the database.
+2025-04-14 11:36:30,341 - INFO - Last date from the database: 2025-04-13 18:00:00
+2025-04-14 11:36:30,342 - INFO - Fetching data from 2025-04-13 19:00:00 to 2025-04-14 11:36:30.342437
+2025-04-14 11:36:30,342 - INFO - Fetching data from 2025-04-13 19:00:00 to 2025-04-14 11:36:30.342437 using API.
+2025-04-14 11:36:31,175 - INFO - Fetched 996 records from the API.
+2025-04-14 11:36:31,177 - INFO - Processing and aggregating 996 records.
+2025-04-14 11:36:31,206 - INFO - Aggregated data to 17 records.
+2025-04-14 11:36:31,207 - INFO - Adding features to 17 records.
+2025-04-14 11:36:31,222 - INFO - Feature engineering completed with 6 records.
+2025-04-14 11:36:31,223 - INFO - Storing data to database.
+2025-04-14 11:36:31,313 - INFO - Data successfully stored in the database and log updated.
+2025-04-14 11:36:31,322 - INFO - Pipeline executed successfully.
+2025-04-15 03:27:35,255 - INFO - Fetching the last date from the database.
+2025-04-15 03:27:35,270 - INFO - Last date from the database: 2025-04-14 11:00:00
+2025-04-15 03:27:35,271 - INFO - Fetching data from 2025-04-14 12:00:00 to 2025-04-15 03:27:35.271779
+2025-04-15 03:27:35,272 - INFO - Fetching data from 2025-04-14 12:00:00 to 2025-04-15 03:27:35.271779 using API.
+2025-04-15 03:27:36,146 - INFO - Fetched 927 records from the API.
+2025-04-15 03:27:36,148 - INFO - Processing and aggregating 927 records.
+2025-04-15 03:27:36,177 - INFO - Aggregated data to 16 records.
+2025-04-15 03:27:36,178 - INFO - Adding features to 16 records.
+2025-04-15 03:27:36,191 - INFO - Feature engineering completed with 5 records.
+2025-04-15 03:27:36,191 - INFO - Storing data to database.
+2025-04-15 03:27:36,285 - INFO - Data successfully stored in the database and log updated.
+2025-04-15 03:27:36,296 - INFO - Pipeline executed successfully.
+2025-04-16 19:16:12,920 - INFO - Fetching the last date from the database.
+2025-04-16 19:16:12,984 - INFO - Last date from the database: 2025-04-15 03:00:00
+2025-04-16 19:16:12,986 - INFO - Fetching data from 2025-04-15 04:00:00 to 2025-04-16 19:16:12.986082
+2025-04-16 19:16:12,986 - INFO - Fetching data from 2025-04-15 04:00:00 to 2025-04-16 19:16:12.986082 using API.
+2025-04-16 19:16:14,451 - INFO - Fetched 2345 records from the API.
+2025-04-16 19:16:14,453 - INFO - Processing and aggregating 2345 records.
+2025-04-16 19:16:14,512 - INFO - Aggregated data to 40 records.
+2025-04-16 19:16:14,513 - INFO - Adding features to 40 records.
+2025-04-16 19:16:14,527 - INFO - Feature engineering completed with 29 records.
+2025-04-16 19:16:14,527 - INFO - Storing data to database.
+2025-04-16 19:16:14,619 - INFO - Data successfully stored in the database and log updated.
+2025-04-16 19:16:14,630 - INFO - Pipeline executed successfully.
+2025-04-16 19:20:48,221 - INFO - Fetching the last date from the database.
+2025-04-16 19:20:48,277 - INFO - Last date from the database: 2025-04-16 19:00:00
+2025-04-16 19:20:48,278 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:20:48.278956
+2025-04-16 19:20:48,279 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:20:48.278956 using API.
+2025-04-16 19:20:48,613 - INFO - Fetched 0 records from the API.
+2025-04-16 19:20:48,614 - WARNING - No data fetched. Skipping pipeline execution.
+2025-04-16 19:33:07,759 - INFO - Fetching the last date from the database.
+2025-04-16 19:33:07,840 - INFO - Last date from the database: 2025-04-16 19:00:00
+2025-04-16 19:33:07,842 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:33:07.842886
+2025-04-16 19:33:07,844 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:33:07.842886 using API.
+2025-04-16 19:33:08,255 - INFO - Fetched 0 records from the API.
+2025-04-16 19:33:08,256 - WARNING - No data fetched. Skipping pipeline execution.
+2025-04-16 19:37:25,965 - INFO - Fetching the last date from the database.
+2025-04-16 19:37:26,018 - INFO - Last date from the database: 2025-04-16 19:00:00
+2025-04-16 19:37:26,019 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:37:26.019466
+2025-04-16 19:37:26,020 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:37:26.019466 using API.
+2025-04-16 19:37:26,412 - INFO - Fetched 0 records from the API.
+2025-04-16 19:37:26,412 - WARNING - No data fetched. Skipping pipeline execution.
+2025-04-16 19:51:58,356 - INFO - Fetching the last date from the database.
+2025-04-16 19:51:58,410 - INFO - Last date from the database: 2025-04-16 19:00:00
+2025-04-16 19:51:58,412 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:51:58.412081
+2025-04-16 19:51:58,412 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 19:51:58.412081 using API.
+2025-04-16 19:51:58,788 - INFO - Fetched 0 records from the API.
+2025-04-16 19:51:58,788 - WARNING - No data fetched. Skipping pipeline execution.
+2025-04-16 20:08:38,615 - INFO - Fetching the last date from the database.
+2025-04-16 20:08:38,701 - INFO - Last date from the database: 2025-04-16 19:00:00
+2025-04-16 20:08:38,703 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 20:08:38.703430
+2025-04-16 20:08:38,704 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 20:08:38.703430 using API.
+2025-04-16 20:08:39,222 - INFO - Fetched 8 records from the API.
+2025-04-16 20:08:39,224 - INFO - Processing and aggregating 8 records.
+2025-04-16 20:08:39,305 - INFO - Aggregated data to 1 records.
+2025-04-16 20:08:39,305 - INFO - Adding features to 1 records.
+2025-04-16 20:08:39,323 - INFO - Feature engineering completed with 0 records.
+2025-04-16 20:08:39,323 - WARNING - No valid data after processing. Skipping storage.
+2025-04-16 20:24:13,048 - INFO - Fetching the last date from the database.
+2025-04-16 20:24:13,085 - INFO - Last date from the database: 2025-04-16 19:00:00
+2025-04-16 20:24:13,087 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 20:24:13.087031
+2025-04-16 20:24:13,087 - INFO - Fetching data from 2025-04-16 20:00:00 to 2025-04-16 20:24:13.087031 using API.
+2025-04-16 20:24:13,391 - INFO - Fetched 24 records from the API.
+2025-04-16 20:24:13,392 - INFO - Processing and aggregating 24 records.
+2025-04-16 20:24:13,433 - INFO - Aggregated data to 1 records.
+2025-04-16 20:24:13,433 - INFO - Adding features to 1 records.
+2025-04-16 20:24:13,443 - INFO - Feature engineering completed with 0 records.
+2025-04-16 20:24:13,444 - WARNING - No valid data after processing. Skipping storage.

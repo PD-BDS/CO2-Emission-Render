@@ -1,0 +1,39 @@
+name: MLOps CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: 3.10
+
+    - name: Install dependencies
+      run: |
+        pip install -r app/base-requirements.txt
+        pip install -r app/backend/requirements.txt
+        pip install -r app/frontend/requirements.txt
+
+    - name: Run data + prediction pipeline
+      run: |
+        python app/scripts/data_pipeline/d_pipeline.py
+        python app/scripts/prediction_pipeline/predict.py
+
+    - name: Build GitHub Pages preview
+      run: |
+        mkdir -p public
+        echo "<h1>Dashboard Updated</h1><p>Visit Render App.</p>" > public/index.html
+
+    - name: Deploy GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./public

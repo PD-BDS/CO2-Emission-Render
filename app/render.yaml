@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: co2-emission-app
+    env: python
+    plan: free
+    region: frankfurt
+    buildCommand: |
+      pip install -r app/base-requirements.txt
+      pip install -r app/backend/requirements.txt
+      pip install -r app/frontend/requirements.txt
+    startCommand: bash app/start.sh
+    envVars:
+      - key: BACKEND_URL
+        value: "/api"
+
+  - type: worker
+    name: co2-emission-worker
+    env: python
+    plan: free
+    region: frankfurt
+    buildCommand: |
+      pip install -r app/base-requirements.txt
+      pip install -r app/worker/requirements.txt
+    startCommand: python app/worker/scheduler.py

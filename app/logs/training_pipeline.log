@@ -1,0 +1,195 @@
+2025-04-13 15:47:27,956 - INFO - 🚀 Pipeline started...
+2025-04-13 15:47:39,030 - INFO - Epoch 1: Validation Loss = 0.014820
+2025-04-13 15:47:46,521 - INFO - Epoch 2: Validation Loss = 0.011379
+2025-04-13 15:48:00,820 - INFO - Epoch 3: Validation Loss = 0.010149
+2025-04-13 15:48:07,033 - INFO - Epoch 4: Validation Loss = 0.008948
+2025-04-13 15:48:14,477 - INFO - Epoch 5: Validation Loss = 0.008503
+2025-04-13 15:48:20,745 - INFO - Epoch 6: Validation Loss = 0.008163
+2025-04-13 15:48:29,345 - INFO - Epoch 7: Validation Loss = 0.008161
+2025-04-13 15:48:39,046 - INFO - Epoch 8: Validation Loss = 0.008603
+2025-04-13 15:48:44,806 - INFO - Epoch 9: Validation Loss = 0.007889
+2025-04-13 15:48:52,381 - INFO - Epoch 10: Validation Loss = 0.007778
+2025-04-13 15:49:02,489 - INFO - Epoch 11: Validation Loss = 0.007579
+2025-04-13 15:49:10,275 - INFO - Epoch 12: Validation Loss = 0.007659
+2025-04-13 15:49:16,409 - INFO - Epoch 13: Validation Loss = 0.007812
+2025-04-13 15:49:23,082 - INFO - Epoch 14: Validation Loss = 0.008709
+2025-04-13 15:49:32,500 - INFO - Epoch 15: Validation Loss = 0.007325
+2025-04-13 15:49:37,804 - INFO - Epoch 16: Validation Loss = 0.007420
+2025-04-13 15:49:43,860 - INFO - Epoch 17: Validation Loss = 0.007529
+2025-04-13 15:49:49,454 - INFO - Epoch 18: Validation Loss = 0.007586
+2025-04-13 15:49:57,018 - INFO - Epoch 19: Validation Loss = 0.007609
+2025-04-13 15:50:09,304 - INFO - Epoch 20: Validation Loss = 0.007236
+2025-04-13 15:50:15,458 - INFO - Epoch 21: Validation Loss = 0.007351
+2025-04-13 15:50:22,497 - INFO - Epoch 22: Validation Loss = 0.007458
+2025-04-13 15:50:29,873 - INFO - Epoch 23: Validation Loss = 0.007287
+2025-04-13 15:50:37,769 - INFO - Epoch 24: Validation Loss = 0.007151
+2025-04-13 15:50:43,561 - INFO - Epoch 25: Validation Loss = 0.007307
+2025-04-13 15:50:51,433 - INFO - Epoch 26: Validation Loss = 0.007431
+2025-04-13 15:50:58,707 - INFO - Epoch 27: Validation Loss = 0.007286
+2025-04-13 15:51:06,212 - INFO - Epoch 28: Validation Loss = 0.007592
+2025-04-13 15:51:15,560 - INFO - Epoch 29: Validation Loss = 0.007254
+2025-04-13 15:51:15,561 - INFO - ⛔ Early stopping triggered.
+2025-04-13 15:51:15,562 - INFO - ✅ Model training completed. Best validation loss: 0.007151
+2025-04-13 15:51:15,709 - INFO - Model and Scalers saved.
+2025-04-13 15:51:16,773 - INFO - ✅ All records inserted for model_id=1
+2025-04-13 15:51:16,777 - INFO - 🏁 Pipeline finished successfully.
+2025-04-13 15:53:17,436 - INFO - ✅ Predictions logged from 2025-04-13 16:00:00 to 2025-04-13 21:00:00.
+2025-04-13 16:54:46,242 - INFO - ✅ Predictions logged from 2025-04-13 16:00:00 to 2025-04-13 21:00:00.
+2025-04-13 18:58:03,306 - INFO - 🚀 Pipeline started...
+2025-04-13 18:58:17,040 - INFO - Epoch 1: Validation Loss = 0.015100
+2025-04-13 18:58:31,598 - INFO - Epoch 2: Validation Loss = 0.011105
+2025-04-13 18:58:41,518 - INFO - Epoch 3: Validation Loss = 0.010369
+2025-04-13 18:58:50,445 - INFO - Epoch 4: Validation Loss = 0.010318
+2025-04-13 18:59:04,791 - INFO - Epoch 5: Validation Loss = 0.008916
+2025-04-13 18:59:13,786 - INFO - Epoch 6: Validation Loss = 0.008283
+2025-04-13 18:59:21,485 - INFO - Epoch 7: Validation Loss = 0.007988
+2025-04-13 18:59:31,165 - INFO - Epoch 8: Validation Loss = 0.008691
+2025-04-13 18:59:40,646 - INFO - Epoch 9: Validation Loss = 0.007874
+2025-04-13 18:59:50,892 - INFO - Epoch 10: Validation Loss = 0.007982
+2025-04-13 19:00:02,546 - INFO - Epoch 11: Validation Loss = 0.007796
+2025-04-13 19:00:10,570 - INFO - Epoch 12: Validation Loss = 0.007685
+2025-04-13 19:00:18,598 - INFO - Epoch 13: Validation Loss = 0.007481
+2025-04-13 19:00:28,489 - INFO - Epoch 14: Validation Loss = 0.007667
+2025-04-13 19:00:40,813 - INFO - Epoch 15: Validation Loss = 0.007377
+2025-04-13 19:00:49,591 - INFO - Epoch 16: Validation Loss = 0.007388
+2025-04-13 19:00:59,497 - INFO - Epoch 17: Validation Loss = 0.007405
+2025-04-13 19:01:11,751 - INFO - Epoch 18: Validation Loss = 0.007515
+2025-04-13 19:01:19,361 - INFO - Epoch 19: Validation Loss = 0.007735
+2025-04-13 19:01:26,869 - INFO - Epoch 20: Validation Loss = 0.007416
+2025-04-13 19:01:26,869 - INFO - ⛔ Early stopping triggered.
+2025-04-13 19:01:26,870 - INFO - ✅ Model training completed. Best validation loss: 0.007377
+2025-04-13 19:01:26,903 - INFO - Model and Scalers saved.
+2025-04-13 19:01:27,247 - INFO - ✅ All records inserted for model_id=1
+2025-04-13 19:01:27,249 - INFO - 🏁 Pipeline finished successfully.
+2025-04-13 19:03:42,428 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 10:09:01,949 - ERROR - ❌ DB logging failed: 'hidden_size'
+2025-04-14 10:09:01,952 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 10:09:02,353 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 10:13:43,388 - ERROR - ❌ DB logging failed: 'hidden_size'
+2025-04-14 10:13:43,390 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 10:13:43,607 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 10:20:24,098 - ERROR - ❌ DB logging failed: 'hidden_size'
+2025-04-14 10:20:24,100 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 10:20:24,313 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 10:23:22,847 - ERROR - ❌ DB logging failed: 'hidden_size'
+2025-04-14 10:23:22,849 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 10:23:23,025 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 10:30:31,776 - INFO - ✅ All records inserted for model_id=2
+2025-04-14 10:30:31,779 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 10:30:31,993 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 10:59:23,088 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-14 10:59:23,190 - INFO - ✅ Evaluation and predictions logged for model_id=2
+2025-04-14 10:59:23,192 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 10:59:23,584 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 11:02:15,354 - INFO - 🚀 Pipeline started...
+2025-04-14 11:02:27,666 - INFO - Epoch 1: Validation Loss = 0.013683
+2025-04-14 11:02:40,602 - INFO - Epoch 2: Validation Loss = 0.011510
+2025-04-14 11:02:50,713 - INFO - Epoch 3: Validation Loss = 0.010084
+2025-04-14 11:02:59,721 - INFO - Epoch 4: Validation Loss = 0.009054
+2025-04-14 11:03:11,749 - INFO - Epoch 5: Validation Loss = 0.008713
+2025-04-14 11:03:20,885 - INFO - Epoch 6: Validation Loss = 0.008815
+2025-04-14 11:03:29,680 - INFO - Epoch 7: Validation Loss = 0.008622
+2025-04-14 11:03:40,505 - INFO - Epoch 8: Validation Loss = 0.007876
+2025-04-14 11:03:55,456 - INFO - Epoch 9: Validation Loss = 0.007807
+2025-04-14 11:04:15,830 - INFO - Epoch 10: Validation Loss = 0.009499
+2025-04-14 11:04:28,177 - INFO - Epoch 11: Validation Loss = 0.007955
+2025-04-14 11:04:37,891 - INFO - Epoch 12: Validation Loss = 0.007601
+2025-04-14 11:04:51,237 - INFO - Epoch 13: Validation Loss = 0.007791
+2025-04-14 11:05:02,691 - INFO - Epoch 14: Validation Loss = 0.007595
+2025-04-14 11:05:12,303 - INFO - Epoch 15: Validation Loss = 0.007587
+2025-04-14 11:05:23,247 - INFO - Epoch 16: Validation Loss = 0.007482
+2025-04-14 11:05:32,734 - INFO - Epoch 17: Validation Loss = 0.007559
+2025-04-14 11:05:46,233 - INFO - Epoch 18: Validation Loss = 0.007457
+2025-04-14 11:05:58,710 - INFO - Epoch 19: Validation Loss = 0.007333
+2025-04-14 11:06:11,052 - INFO - Epoch 20: Validation Loss = 0.008281
+2025-04-14 11:06:23,862 - INFO - Epoch 21: Validation Loss = 0.007202
+2025-04-14 11:06:33,266 - INFO - Epoch 22: Validation Loss = 0.007369
+2025-04-14 11:06:43,276 - INFO - Epoch 23: Validation Loss = 0.007231
+2025-04-14 11:06:58,916 - INFO - Epoch 24: Validation Loss = 0.007700
+2025-04-14 11:07:09,508 - INFO - Epoch 25: Validation Loss = 0.007685
+2025-04-14 11:07:23,467 - INFO - Epoch 26: Validation Loss = 0.007224
+2025-04-14 11:07:23,470 - INFO - ⛔ Early stopping triggered.
+2025-04-14 11:07:23,474 - INFO - ✅ Model training completed. Best validation loss: 0.007202
+2025-04-14 11:07:23,719 - INFO - Model and Scalers saved.
+2025-04-14 11:07:25,106 - INFO - ✅ All records inserted for model_id=1
+2025-04-14 11:07:25,109 - INFO - 🏁 Pipeline finished successfully.
+2025-04-14 11:08:15,349 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-14 11:08:15,406 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-14 11:08:15,407 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 11:08:15,589 - INFO - ✅ Predictions logged from 2025-04-14 12:00:00 to 2025-04-14 17:00:00.
+2025-04-14 11:09:45,451 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-14 11:09:45,498 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-14 11:09:45,499 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 11:09:45,619 - INFO - ✅ Predictions logged from 2025-04-14 12:00:00 to 2025-04-14 17:00:00.
+2025-04-14 11:22:42,327 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-14 11:22:42,403 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-14 11:22:42,405 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 11:22:42,655 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 11:35:07,822 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-14 11:35:07,890 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-14 11:35:07,891 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 11:35:08,164 - INFO - ✅ Predictions logged from 2025-04-13 19:00:00 to 2025-04-14 00:00:00.
+2025-04-14 11:36:39,734 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-14 11:36:39,892 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-14 11:36:39,894 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-14 11:36:40,227 - INFO - ✅ Predictions logged from 2025-04-14 12:00:00 to 2025-04-14 17:00:00.
+2025-04-15 03:26:54,283 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-15 03:26:54,537 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-15 03:26:54,548 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-15 03:26:55,494 - INFO - ✅ Predictions logged from 2025-04-14 12:00:00 to 2025-04-14 17:00:00.
+2025-04-15 03:27:45,326 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-15 03:27:45,385 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-15 03:27:45,386 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-15 03:27:45,567 - INFO - ✅ Predictions logged from 2025-04-15 04:00:00 to 2025-04-15 09:00:00.
+2025-04-16 19:16:21,184 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 19:16:21,280 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 19:16:21,282 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 19:16:21,618 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
+2025-04-16 19:20:53,761 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 19:20:53,825 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 19:20:53,826 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 19:20:54,080 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
+2025-04-16 19:33:14,453 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 19:33:14,539 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 19:33:14,540 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 19:33:14,836 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
+2025-04-16 19:37:31,885 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 19:37:31,957 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 19:37:31,958 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 19:37:32,317 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
+2025-04-16 19:52:04,211 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 19:52:04,280 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 19:52:04,282 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 19:52:04,544 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
+2025-04-16 20:08:48,285 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 20:08:48,343 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 20:08:48,345 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 20:08:48,695 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
+2025-04-16 20:24:18,438 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-16 20:24:18,480 - INFO - ✅ Evaluation and predictions logged for model_id=1
+2025-04-16 20:24:18,482 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-16 20:24:18,487 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-04-16 20:24:34,814 - INFO - Epoch 1: Validation Loss = 0.009672
+2025-04-16 20:24:46,261 - INFO - Epoch 2: Validation Loss = 0.007907
+2025-04-16 20:24:55,722 - INFO - Epoch 3: Validation Loss = 0.007523
+2025-04-16 20:25:05,806 - INFO - Epoch 4: Validation Loss = 0.007572
+2025-04-16 20:25:20,647 - INFO - Epoch 5: Validation Loss = 0.006524
+2025-04-16 20:25:30,368 - INFO - Epoch 6: Validation Loss = 0.006903
+2025-04-16 20:25:39,108 - INFO - Epoch 7: Validation Loss = 0.006241
+2025-04-16 20:25:50,008 - INFO - Epoch 8: Validation Loss = 0.005742
+2025-04-16 20:25:58,536 - INFO - Epoch 9: Validation Loss = 0.005734
+2025-04-16 20:26:07,161 - INFO - Epoch 10: Validation Loss = 0.006548
+2025-04-16 20:26:21,136 - INFO - Epoch 11: Validation Loss = 0.006045
+2025-04-16 20:26:35,959 - INFO - Epoch 12: Validation Loss = 0.005513
+2025-04-16 20:26:51,993 - INFO - Epoch 13: Validation Loss = 0.005547
+2025-04-16 20:27:02,950 - INFO - Epoch 14: Validation Loss = 0.005408
+2025-04-16 20:27:11,914 - INFO - Epoch 15: Validation Loss = 0.005333
+2025-04-16 20:27:24,669 - INFO - Epoch 16: Validation Loss = 0.005605
+2025-04-16 20:27:37,483 - INFO - Epoch 17: Validation Loss = 0.006613
+2025-04-16 20:27:51,333 - INFO - Epoch 18: Validation Loss = 0.005474
+2025-04-16 20:28:04,355 - INFO - Epoch 19: Validation Loss = 0.005365
+2025-04-16 20:28:11,840 - INFO - Epoch 20: Validation Loss = 0.005383
+2025-04-16 20:28:11,841 - INFO - ⛔ Early stopping triggered.
+2025-04-16 20:28:11,859 - INFO - ✅ Model training completed. Best validation loss: 0.005333
+2025-04-16 20:28:17,604 - INFO - ✅ All records inserted for model_id=2
+2025-04-16 20:28:19,270 - INFO - ✅ Predictions logged from 2025-04-16 20:00:00 to 2025-04-17 01:00:00.
