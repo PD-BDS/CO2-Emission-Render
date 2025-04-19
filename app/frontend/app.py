@@ -19,7 +19,7 @@ tab1, tab2, tab3, tab4 = st.tabs(["Last 24h Emissions", "Next 6h Forecast", "Rec
 
 with tab1:
     r = requests.get(f"{API}/last-24h-emissions")
-    df = pd.DataFrame(r.json())
+    df = pd.DataFrame([r.json()])
     if df.empty:
         st.warning("No data available.")
     else:
@@ -31,7 +31,8 @@ with tab1:
 
 with tab2:
     r = requests.get(f"{API}/next-6h-predictions")
-    df = pd.DataFrame(r.json())
+    df = pd.DataFrame([r.json()])
+
     
     if df.empty or "TimeStamp" not in df.columns:
         st.warning("No data available for the last 24 hours.")
@@ -45,7 +46,7 @@ with tab3:
     r = requests.get(f"{API}/last-6h-predictions-vs-actual")
     
     if r.status_code == 200:
-        df = pd.DataFrame(r.json())
+        df = pd.DataFrame([r.json()])
 
         if df.empty or "TimeStamp" not in df.columns:
             st.warning("No data available for the last 6 hours.")
