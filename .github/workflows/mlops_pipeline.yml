@@ -11,6 +11,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+
     - name: Set up Python
       uses: actions/setup-python@v4
       with:
@@ -35,6 +36,9 @@ jobs:
       run: |
         mkdir -p public
         echo "<h1>Dashboard Updated</h1><p>Visit Render App.</p>" > public/index.html
+
+    - name: Debug: Check contents of public folder
+      run: ls -la public
 
     - name: Deploy GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
