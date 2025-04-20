@@ -35,7 +35,18 @@ jobs:
     - name: Build GitHub Pages preview
       run: |
         mkdir -p public
-        echo "<h1>Dashboard Updated</h1><p>Visit Render App.</p>" > public/index.html
+        cat <<EOF > public/index.html
+        <!DOCTYPE html>
+        <html>
+        <head><title>CO2 Forecast</title></head>
+        <body>
+          <h1>🌍 CO2 Forecast Dashboard</h1>
+          <p>Visit the full dashboard hosted on Render:</p>
+          <a href="https://co2-emission-app.onrender.com" target="_blank">Open Streamlit App</a>
+        </body>
+        </html>
+        EOF
+
 
     - name: Deploy GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
