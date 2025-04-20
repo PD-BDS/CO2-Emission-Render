@@ -1,4 +1,7 @@
 import schedule, time, subprocess, logging
+import os
+
+os.makedirs("logs", exist_ok=True) 
 logging.basicConfig(level=logging.INFO)
 
 def run_pipeline():
