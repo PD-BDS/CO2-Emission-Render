@@ -22,6 +22,9 @@ jobs:
         pip install -r app/backend/requirements.txt
         pip install -r app/frontend/requirements.txt
 
+    - name: Set PYTHONPATH
+      run: echo "PYTHONPATH=$PYTHONPATH:$(pwd)/app" >> $GITHUB_ENV
+
     - name: Run data + prediction pipeline
       run: |
         python app/scripts/data_pipeline/d_pipeline.py
