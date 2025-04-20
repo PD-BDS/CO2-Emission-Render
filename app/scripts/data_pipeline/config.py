@@ -1,11 +1,13 @@
 from pathlib import Path
 import logging
 
+# Ensure database directory exists
+Path("database").mkdir(exist_ok=True)
+Path("logs").mkdir(exist_ok=True)
+
 # Set up logging
 logging.basicConfig(filename='logs/data_pipeline.log', level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
-# Ensure database directory exists
-Path("database").mkdir(exist_ok=True)
 
 # Constants
 DB_PATH = "database/co2_emission.db"
