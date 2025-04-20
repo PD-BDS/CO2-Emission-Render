@@ -37,11 +37,10 @@ jobs:
         mkdir -p public
         echo "<h1>Dashboard Updated</h1><p>Visit Render App.</p>" > public/index.html
 
-    - name: Debug: Check contents of public folder
-      run: ls -la public
-
     - name: Deploy GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
+
+
