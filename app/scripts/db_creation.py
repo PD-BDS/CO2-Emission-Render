@@ -1,10 +1,10 @@
 import sqlite3
 from pathlib import Path
 
-Path("app/database").mkdir(exist_ok=True)
+DB_PATH = "database/co2_emission.db"
+Path("database").mkdir(exist_ok=True)
 
-# Connect to the database
-conn = sqlite3.connect("app/database/co2_emission.db")
+conn = sqlite3.connect(DB_PATH)
 cursor = conn.cursor()
 
 # Enable foreign keys
