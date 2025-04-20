@@ -13,6 +13,9 @@ from scripts.model_pipeline.evaluator import evaluate_model
 from scripts.model_pipeline.logger import log_to_database
 from scripts.model_pipeline.model_definitions import AttentionLSTMModel
 
+
+os.makedirs("logs", exist_ok=True) 
+
 # Setup logging
 logging.basicConfig(
     filename='logs/training_pipeline.log',
