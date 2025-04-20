@@ -27,6 +27,7 @@ jobs:
 
     - name: Run data + prediction pipeline
       run: |
+        python app/scripts/db_creation.py 
         python app/scripts/data_pipeline/d_pipeline.py
         python app/scripts/prediction_pipeline/predict.py
 
