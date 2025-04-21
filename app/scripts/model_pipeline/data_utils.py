@@ -3,10 +3,8 @@ import pandas as pd
 import numpy as np
 from datetime import datetime
 from sklearn.preprocessing import MinMaxScaler
-from pathlib import Path
 
-DB_PATH = str(Path(__file__).resolve().parent.parent.parent / "database" / "co2_emission.db")
-
+DB_PATH = "database/co2_emission.db"
 TRAIN_START = "2023-01-01 00:00:00"
 TRAIN_END = "2025-04-01 23:00:00"
 

@@ -1,7 +1,6 @@
 import sqlite3
-from pathlib import Path
 
-DB_PATH = str(Path(__file__).resolve().parent.parent.parent / "database" / "co2_emission.db")
+DB_PATH = "database/co2_emission.db"
 
 def update_actuals():
     conn = sqlite3.connect(DB_PATH)

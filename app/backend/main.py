@@ -3,11 +3,9 @@ from fastapi.middleware.cors import CORSMiddleware
 import sqlite3
 import pandas as pd
 import os
-from pathlib import Path
 
 # Define path to the SQLite database
-DB_PATH = str(Path(__file__).resolve().parent.parent / "database" / "co2_emission.db")
-
+DB_PATH = os.path.join(os.getcwd(), "database", "co2_emission.db")
 
 # Create FastAPI app
 app = FastAPI()
