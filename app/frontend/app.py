@@ -71,7 +71,7 @@ with tab3:
         df["TimeStamp"] = pd.to_datetime(df["TimeStamp"])
         df["Prediction"] = round(df["Prediction"], 2)
         df["Actual"] = df.get("Actual", pd.Series([None]*len(df)))
-        df["Actual"] = df["Actual"].fillna(0, inplace=True)
+        df["Actual"] = df["Actual"].fillna(0)
 
         fig = px.line(df.melt(id_vars="TimeStamp", value_vars=["Prediction", "Actual"]),
                       x="TimeStamp", y="value", color="variable",
