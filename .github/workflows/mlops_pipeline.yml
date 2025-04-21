@@ -5,13 +5,15 @@ on:
     branches: [ main ]
   workflow_dispatch:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: '0 */6 * * *'  # 🔁 Every 6 hours UTC
+
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -33,6 +35,17 @@ jobs:
         python app/scripts/data_pipeline/d_pipeline.py
         python app/scripts/prediction_pipeline/predict.py
 
+    - name: Commit and push updated database/models
+      if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add database/co2_emission.db
+        git add models/
+        git add logs/
+        git commit -m "🔄 Update DB and models from scheduled run [skip ci]" || echo "No changes to commit"
+        git push origin main || echo "Nothing to push"
+
     - name: Build GitHub Pages preview
       run: |
         mkdir -p public
@@ -48,11 +61,8 @@ jobs:
         </html>
         EOF
 
-
     - name: Deploy GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./public
-
-
