@@ -44,7 +44,7 @@ jobs:
       if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
       run: |
         git pull origin main || true
-        git add database/co2_emission.db models/ logs/
+        git add app/database/co2_emission.db app/models/ app/logs/
         git diff --cached --quiet || git commit -m "🔄 Update DB and models from scheduled run [skip ci]"
         git push origin main || echo "Nothing to push"
 
