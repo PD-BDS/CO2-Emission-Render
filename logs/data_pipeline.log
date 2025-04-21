@@ -1,0 +1,12 @@
+2025-04-21 12:49:40,002 - INFO - Fetching the last date from the database.
+2025-04-21 12:49:40,004 - INFO - No date found in the database.
+2025-04-21 12:49:40,004 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00
+2025-04-21 12:49:40,004 - INFO - Fetching data from 2023-01-01 00:00:00 to 2025-04-09 00:00:00 using API.
+2025-04-21 12:50:53,580 - INFO - Fetched 1191983 records from the API.
+2025-04-21 12:50:54,159 - INFO - Processing and aggregating 1191983 records.
+2025-04-21 12:50:54,518 - INFO - Aggregated data to 19896 records.
+2025-04-21 12:50:54,518 - INFO - Adding features to 19896 records.
+2025-04-21 12:50:54,524 - INFO - Feature engineering completed with 19885 records.
+2025-04-21 12:50:54,524 - INFO - Storing data to database.
+2025-04-21 12:50:54,707 - INFO - Data successfully stored in the database and log updated.
+2025-04-21 12:50:54,788 - INFO - Pipeline executed successfully.
