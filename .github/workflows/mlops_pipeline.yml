@@ -35,15 +35,17 @@ jobs:
         python app/scripts/data_pipeline/d_pipeline.py
         python app/scripts/prediction_pipeline/predict.py
 
-    - name: Commit and push updated database/models
-      if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    - name: Configure Git
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add database/co2_emission.db
-        git add models/
-        git add logs/
-        git commit -m "🔄 Update DB and models from scheduled run [skip ci]" || echo "No changes to commit"
+
+    - name: Commit & Push Artifacts
+      if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+      run: |
+        git pull origin main || true
+        git add database/co2_emission.db models/ logs/
+        git diff --cached --quiet || git commit -m "🔄 Update DB and models from scheduled run [skip ci]"
         git push origin main || echo "Nothing to push"
 
     - name: Build GitHub Pages preview
