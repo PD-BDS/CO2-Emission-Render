@@ -1,6 +1,8 @@
 # 🌍 CO₂ Emission Forecasting with MLOps
 
 This project forecasts CO₂ emissions using real-time power system data from Denmark. It demonstrates a complete **MLOps pipeline** with automated data ingestion, model training, prediction, evaluation, and deployment using **GitHub Actions** and **Render**.
+
+
 **🔗 [🌍 CO₂ Emission Forecasting Application ](https://co2-emission-render.onrender.com)**
 ---
 
