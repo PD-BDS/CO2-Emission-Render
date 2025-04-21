@@ -30,10 +30,11 @@ jobs:
       run: echo "PYTHONPATH=$PYTHONPATH:$(pwd)/app" >> $GITHUB_ENV
 
     - name: Run data + prediction pipeline
+      working-directory: app
       run: |
-        python app/scripts/db_creation.py 
-        python app/scripts/data_pipeline/d_pipeline.py
-        python app/scripts/prediction_pipeline/predict.py
+        python scripts/db_creation.py 
+        python scripts/data_pipeline/d_pipeline.py
+        python scripts/prediction_pipeline/predict.py
 
     - name: Configure Git
       run: |
