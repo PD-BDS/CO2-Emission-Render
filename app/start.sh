@@ -1,7 +1,7 @@
 #!/bin/bash
 # start.sh
 echo "Starting Streamlit frontend..."
-streamlit run frontend/app.py --server.port 10000 --server.address 0.0.0.0 &
+streamlit run frontend/app.py --server.port $PORT --server.address 0.0.0.0 &
 
 echo "Waiting for FastAPI to start..."
 sleep 10
