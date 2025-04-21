@@ -26,7 +26,13 @@ api_router = APIRouter()
 def query_db(query: str, params=()):
     with sqlite3.connect(DB_PATH) as conn:
         df = pd.read_sql_query(query, conn, params=params)
+
+    # Replace problematic float values with None (which becomes null in JSON)
+    df = df.replace([float('inf'), float('-inf')], None)
+    df = df.where(pd.notnull(df), None)  # Replace NaNs with None
+
     return df.to_dict(orient="records")
+
 
 # Endpoint: Last 24h CO₂ emissions
 @api_router.get("/last-24h-emissions")
