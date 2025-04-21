@@ -44,24 +44,27 @@ def get_last_24h_emissions():
     """)
 
 # Endpoint: Next 6h predictions
-@api_router.get("/next-6h-predictions")
+@app.get("/next-6h-predictions")
 def get_next_6h_predictions():
     return query_db("""
-        SELECT TimeStamp, Prediction FROM predictions
-        WHERE TimeStamp > datetime('now')
-        ORDER BY TimeStamp
+        SELECT DISTINCT TimeStamp, Prediction
+        FROM predictions
+        WHERE Actual IS NULL
+        ORDER BY TimeStamp ASC
         LIMIT 6
     """)
 
 # Endpoint: Last 6h predictions vs actual
-@api_router.get("/last-6h-predictions-vs-actual")
+@app.get("/last-6h-predictions-vs-actual")
 def get_last_6h_predictions_vs_actual():
     return query_db("""
-        SELECT TimeStamp, Prediction, Actual FROM predictions
-        WHERE TimeStamp <= datetime('now')
+        SELECT DISTINCT TimeStamp, Prediction, Actual
+        FROM predictions
+        WHERE Actual IS NOT NULL
         ORDER BY TimeStamp DESC
         LIMIT 6
     """)
+
 
 # Endpoint: Best model details
 @api_router.get("/best-model")
