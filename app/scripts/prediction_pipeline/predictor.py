@@ -7,8 +7,9 @@ import pandas as pd
 from datetime import timedelta, datetime
 from scripts.model_pipeline.model_definitions import AttentionLSTMModel
 from scripts.model_pipeline.evaluator import evaluate_model
+from pathlib import Path
 
-DB_PATH = "database/co2_emission.db"
+DB_PATH = str(Path(__file__).resolve().parent.parent.parent / "database" / "co2_emission.db")
 MODEL_DIR = "models"
 INPUT_WINDOW = 24
 OUTPUT_WINDOW = 6

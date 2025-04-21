@@ -6,6 +6,7 @@ import hashlib
 import sqlite3
 import numpy as np
 from datetime import datetime
+from pathlib import Path
 
 from scripts.model_pipeline.data_utils import load_data, create_sequences
 from scripts.model_pipeline.trainer import train_model
@@ -24,7 +25,7 @@ logging.basicConfig(
 )
 
 # Configuration
-DB_PATH = "database/co2_emission.db"
+DB_PATH = str(Path(__file__).resolve().parent.parent.parent / "database" / "co2_emission.db")
 timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
 os.makedirs("models", exist_ok=True)
 

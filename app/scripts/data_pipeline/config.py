@@ -10,7 +10,8 @@ logging.basicConfig(filename='logs/data_pipeline.log', level=logging.INFO, forma
 
 
 # Constants
-DB_PATH = "database/co2_emission.db"
+DB_PATH = str(Path(__file__).resolve().parent.parent.parent / "database" / "co2_emission.db")
+
 BASE_URL = "https://api.energidataservice.dk/dataset/PowerSystemRightNow"
 RELEVANT_COLUMNS = [
     'Minutes1DK', 'ProductionGe100MW', 'ProductionLt100MW', 'SolarPower',
