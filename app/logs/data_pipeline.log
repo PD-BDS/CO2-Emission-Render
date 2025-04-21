@@ -224,3 +224,15 @@
 2025-04-21 14:58:13,308 - INFO - Storing data to database.
 2025-04-21 14:58:13,495 - INFO - Data successfully stored in the database and log updated.
 2025-04-21 14:58:13,573 - INFO - Pipeline executed successfully.
+2025-04-21 15:53:01,939 - INFO - Fetching the last date from the database.
+2025-04-21 15:53:01,940 - INFO - Last date from the database: 2025-04-08 23:00:00
+2025-04-21 15:53:01,941 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-21 15:53:01.941557
+2025-04-21 15:53:01,941 - INFO - Fetching data from 2025-04-09 00:00:00 to 2025-04-21 15:53:01.941557 using API.
+2025-04-21 15:53:03,603 - INFO - Fetched 18210 records from the API.
+2025-04-21 15:53:03,610 - INFO - Processing and aggregating 18210 records.
+2025-04-21 15:53:03,621 - INFO - Aggregated data to 304 records.
+2025-04-21 15:53:03,621 - INFO - Adding features to 304 records.
+2025-04-21 15:53:03,625 - INFO - Feature engineering completed with 293 records.
+2025-04-21 15:53:03,625 - INFO - Storing data to database.
+2025-04-21 15:53:03,639 - INFO - Data successfully stored in the database and log updated.
+2025-04-21 15:53:03,641 - INFO - Pipeline executed successfully.
