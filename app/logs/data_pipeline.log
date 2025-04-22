@@ -256,3 +256,13 @@
 2025-04-21 18:30:05,008 - INFO - Adding features to 3 records.
 2025-04-21 18:30:05,011 - INFO - Feature engineering completed with 0 records.
 2025-04-21 18:30:05,011 - WARNING - No valid data after processing. Skipping storage.
+2025-04-22 01:40:32,027 - INFO - Fetching the last date from the database.
+2025-04-22 01:40:32,029 - INFO - Last date from the database: 2025-04-21 15:00:00
+2025-04-22 01:40:32,030 - INFO - Fetching data from 2025-04-21 16:00:00 to 2025-04-22 01:40:32.030550
+2025-04-22 01:40:32,030 - INFO - Fetching data from 2025-04-21 16:00:00 to 2025-04-22 01:40:32.030550 using API.
+2025-04-22 01:40:33,092 - INFO - Fetched 580 records from the API.
+2025-04-22 01:40:33,093 - INFO - Processing and aggregating 580 records.
+2025-04-22 01:40:33,100 - INFO - Aggregated data to 10 records.
+2025-04-22 01:40:33,100 - INFO - Adding features to 10 records.
+2025-04-22 01:40:33,103 - INFO - Feature engineering completed with 0 records.
+2025-04-22 01:40:33,103 - WARNING - No valid data after processing. Skipping storage.
