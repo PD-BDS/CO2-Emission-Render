@@ -332,3 +332,15 @@
 2025-04-23 12:42:13,015 - INFO - Adding features to 6 records.
 2025-04-23 12:42:13,019 - INFO - Feature engineering completed with 0 records.
 2025-04-23 12:42:13,019 - WARNING - No valid data after processing. Skipping storage.
+2025-04-23 18:30:51,521 - INFO - Fetching the last date from the database.
+2025-04-23 18:30:51,524 - INFO - Last date from the database: 2025-04-23 06:00:00
+2025-04-23 18:30:51,524 - INFO - Fetching data from 2025-04-23 07:00:00 to 2025-04-23 18:30:51.524837
+2025-04-23 18:30:51,524 - INFO - Fetching data from 2025-04-23 07:00:00 to 2025-04-23 18:30:51.524837 using API.
+2025-04-23 18:30:52,449 - INFO - Fetched 690 records from the API.
+2025-04-23 18:30:52,450 - INFO - Processing and aggregating 690 records.
+2025-04-23 18:30:52,456 - INFO - Aggregated data to 12 records.
+2025-04-23 18:30:52,456 - INFO - Adding features to 12 records.
+2025-04-23 18:30:52,460 - INFO - Feature engineering completed with 1 records.
+2025-04-23 18:30:52,460 - INFO - Storing data to database.
+2025-04-23 18:30:52,472 - INFO - Data successfully stored in the database and log updated.
+2025-04-23 18:30:52,473 - INFO - Pipeline executed successfully.
