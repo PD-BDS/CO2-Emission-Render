@@ -469,3 +469,7 @@
 2025-04-26 06:27:36,815 - INFO - ✅ Evaluation and predictions logged for model_id=6
 2025-04-26 06:27:36,815 - INFO - ✅ Evaluation of latest predictions logged.
 2025-04-26 06:27:36,832 - INFO - ✅ Predictions logged from 2025-04-26 07:00:00 to 2025-04-26 12:00:00.
+2025-04-26 12:37:39,035 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-04-26 12:37:39,047 - INFO - ✅ Evaluation and predictions logged for model_id=6
+2025-04-26 12:37:39,047 - INFO - ✅ Evaluation of latest predictions logged.
+2025-04-26 12:37:39,065 - INFO - ✅ Predictions logged from 2025-04-26 07:00:00 to 2025-04-26 12:00:00.
