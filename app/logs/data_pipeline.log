@@ -916,3 +916,13 @@
 2025-05-06 18:30:11,024 - INFO - Storing data to database.
 2025-05-06 18:30:11,038 - INFO - Data successfully stored in the database and log updated.
 2025-05-06 18:30:11,039 - INFO - Pipeline executed successfully.
+2025-05-07 01:43:30,497 - INFO - Fetching the last date from the database.
+2025-05-07 01:43:30,499 - INFO - Last date from the database: 2025-05-06 18:00:00
+2025-05-07 01:43:30,500 - INFO - Fetching data from 2025-05-06 19:00:00 to 2025-05-07 01:43:30.500046
+2025-05-07 01:43:30,500 - INFO - Fetching data from 2025-05-06 19:00:00 to 2025-05-07 01:43:30.500046 using API.
+2025-05-07 01:43:31,212 - INFO - Fetched 402 records from the API.
+2025-05-07 01:43:31,212 - INFO - Processing and aggregating 402 records.
+2025-05-07 01:43:31,218 - INFO - Aggregated data to 7 records.
+2025-05-07 01:43:31,219 - INFO - Adding features to 7 records.
+2025-05-07 01:43:31,222 - INFO - Feature engineering completed with 0 records.
+2025-05-07 01:43:31,222 - WARNING - No valid data after processing. Skipping storage.
