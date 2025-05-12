@@ -1665,3 +1665,7 @@
 2025-05-12 12:46:08,516 - INFO - ✅ Model training completed. Best validation loss: 0.006059
 2025-05-12 12:46:08,830 - INFO - ✅ All records inserted for model_id=47
 2025-05-12 12:46:08,842 - INFO - ✅ Predictions logged from 2025-05-12 07:00:00 to 2025-05-12 12:00:00.
+2025-05-12 18:30:22,912 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-05-12 18:30:22,921 - INFO - ✅ Evaluation and predictions logged for model_id=47
+2025-05-12 18:30:22,921 - INFO - ✅ Evaluation of latest predictions logged.
+2025-05-12 18:30:22,938 - INFO - ✅ Predictions logged from 2025-05-12 19:00:00 to 2025-05-13 00:00:00.
