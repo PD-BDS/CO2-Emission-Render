@@ -1998,3 +1998,7 @@
 2025-05-17 06:28:35,245 - INFO - ✅ Evaluation and predictions logged for model_id=59
 2025-05-17 06:28:35,245 - INFO - ✅ Evaluation of latest predictions logged.
 2025-05-17 06:28:35,262 - INFO - ✅ Predictions logged from 2025-05-17 07:00:00 to 2025-05-17 12:00:00.
+2025-05-17 12:38:30,898 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-05-17 12:38:30,910 - INFO - ✅ Evaluation and predictions logged for model_id=59
+2025-05-17 12:38:30,910 - INFO - ✅ Evaluation of latest predictions logged.
+2025-05-17 12:38:30,929 - INFO - ✅ Predictions logged from 2025-05-17 07:00:00 to 2025-05-17 12:00:00.
