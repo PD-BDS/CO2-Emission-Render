@@ -3495,3 +3495,27 @@
 2025-06-04 12:46:22,293 - INFO - ✅ Model training completed. Best validation loss: 0.006686
 2025-06-04 12:46:22,811 - INFO - ✅ All records inserted for model_id=115
 2025-06-04 12:46:22,824 - INFO - ✅ Predictions logged from 2025-06-04 07:00:00 to 2025-06-04 12:00:00.
+2025-06-04 18:30:56,074 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-06-04 18:30:56,084 - INFO - ✅ Evaluation and predictions logged for model_id=115
+2025-06-04 18:30:56,084 - INFO - ✅ Evaluation of latest predictions logged.
+2025-06-04 18:30:56,084 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-06-04 18:31:02,678 - INFO - Epoch 1: Validation Loss = 0.011544
+2025-06-04 18:31:07,758 - INFO - Epoch 2: Validation Loss = 0.009169
+2025-06-04 18:31:12,882 - INFO - Epoch 3: Validation Loss = 0.008440
+2025-06-04 18:31:18,048 - INFO - Epoch 4: Validation Loss = 0.008485
+2025-06-04 18:31:23,219 - INFO - Epoch 5: Validation Loss = 0.007411
+2025-06-04 18:31:28,429 - INFO - Epoch 6: Validation Loss = 0.007128
+2025-06-04 18:31:33,692 - INFO - Epoch 7: Validation Loss = 0.007244
+2025-06-04 18:31:38,824 - INFO - Epoch 8: Validation Loss = 0.007115
+2025-06-04 18:31:44,064 - INFO - Epoch 9: Validation Loss = 0.006752
+2025-06-04 18:31:49,270 - INFO - Epoch 10: Validation Loss = 0.007051
+2025-06-04 18:31:54,518 - INFO - Epoch 11: Validation Loss = 0.006608
+2025-06-04 18:31:59,827 - INFO - Epoch 12: Validation Loss = 0.006781
+2025-06-04 18:32:05,098 - INFO - Epoch 13: Validation Loss = 0.007166
+2025-06-04 18:32:10,359 - INFO - Epoch 14: Validation Loss = 0.006703
+2025-06-04 18:32:15,608 - INFO - Epoch 15: Validation Loss = 0.006937
+2025-06-04 18:32:20,853 - INFO - Epoch 16: Validation Loss = 0.006608
+2025-06-04 18:32:20,853 - INFO - ⛔ Early stopping triggered.
+2025-06-04 18:32:20,853 - INFO - ✅ Model training completed. Best validation loss: 0.006608
+2025-06-04 18:32:21,326 - INFO - ✅ All records inserted for model_id=116
+2025-06-04 18:32:21,340 - INFO - ✅ Predictions logged from 2025-06-04 19:00:00 to 2025-06-05 00:00:00.
