@@ -3549,3 +3549,7 @@
 2025-06-05 06:33:17,317 - INFO - ✅ Evaluation and predictions logged for model_id=117
 2025-06-05 06:33:17,317 - INFO - ✅ Evaluation of latest predictions logged.
 2025-06-05 06:33:17,334 - INFO - ✅ Predictions logged from 2025-06-05 07:00:00 to 2025-06-05 12:00:00.
+2025-06-05 12:44:09,740 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-06-05 12:44:09,752 - INFO - ✅ Evaluation and predictions logged for model_id=117
+2025-06-05 12:44:09,752 - INFO - ✅ Evaluation of latest predictions logged.
+2025-06-05 12:44:09,773 - INFO - ✅ Predictions logged from 2025-06-05 07:00:00 to 2025-06-05 12:00:00.
