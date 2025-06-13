@@ -4213,3 +4213,29 @@
 2025-06-13 06:34:24,513 - INFO - ✅ Model training completed. Best validation loss: 0.007129
 2025-06-13 06:34:24,924 - INFO - ✅ All records inserted for model_id=143
 2025-06-13 06:34:24,937 - INFO - ✅ Predictions logged from 2025-06-13 07:00:00 to 2025-06-13 12:00:00.
+2025-06-13 12:43:29,574 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-06-13 12:43:29,601 - INFO - ✅ Evaluation and predictions logged for model_id=143
+2025-06-13 12:43:29,601 - INFO - ✅ Evaluation of latest predictions logged.
+2025-06-13 12:43:29,601 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-06-13 12:43:36,139 - INFO - Epoch 1: Validation Loss = 0.013269
+2025-06-13 12:43:41,467 - INFO - Epoch 2: Validation Loss = 0.009885
+2025-06-13 12:43:46,805 - INFO - Epoch 3: Validation Loss = 0.009517
+2025-06-13 12:43:52,063 - INFO - Epoch 4: Validation Loss = 0.008180
+2025-06-13 12:43:57,450 - INFO - Epoch 5: Validation Loss = 0.007601
+2025-06-13 12:44:02,759 - INFO - Epoch 6: Validation Loss = 0.008168
+2025-06-13 12:44:07,962 - INFO - Epoch 7: Validation Loss = 0.007861
+2025-06-13 12:44:13,245 - INFO - Epoch 8: Validation Loss = 0.007574
+2025-06-13 12:44:18,446 - INFO - Epoch 9: Validation Loss = 0.007350
+2025-06-13 12:44:23,774 - INFO - Epoch 10: Validation Loss = 0.007459
+2025-06-13 12:44:29,081 - INFO - Epoch 11: Validation Loss = 0.009328
+2025-06-13 12:44:34,378 - INFO - Epoch 12: Validation Loss = 0.007191
+2025-06-13 12:44:39,749 - INFO - Epoch 13: Validation Loss = 0.007109
+2025-06-13 12:44:45,127 - INFO - Epoch 14: Validation Loss = 0.007501
+2025-06-13 12:44:50,562 - INFO - Epoch 15: Validation Loss = 0.007178
+2025-06-13 12:44:55,957 - INFO - Epoch 16: Validation Loss = 0.007444
+2025-06-13 12:45:01,322 - INFO - Epoch 17: Validation Loss = 0.007237
+2025-06-13 12:45:06,737 - INFO - Epoch 18: Validation Loss = 0.007537
+2025-06-13 12:45:06,737 - INFO - ⛔ Early stopping triggered.
+2025-06-13 12:45:06,737 - INFO - ✅ Model training completed. Best validation loss: 0.007109
+2025-06-13 12:45:07,137 - INFO - ✅ All records inserted for model_id=144
+2025-06-13 12:45:07,150 - INFO - ✅ Predictions logged from 2025-06-13 07:00:00 to 2025-06-13 12:00:00.
