@@ -2928,3 +2928,13 @@
 2025-06-21 18:28:18,744 - INFO - Storing data to database.
 2025-06-21 18:28:18,758 - INFO - Data successfully stored in the database and log updated.
 2025-06-21 18:28:18,759 - INFO - Pipeline executed successfully.
+2025-06-22 01:55:30,646 - INFO - Fetching the last date from the database.
+2025-06-22 01:55:30,648 - INFO - Last date from the database: 2025-06-21 18:00:00
+2025-06-22 01:55:30,648 - INFO - Fetching data from 2025-06-21 19:00:00 to 2025-06-22 01:55:30.648872
+2025-06-22 01:55:30,648 - INFO - Fetching data from 2025-06-21 19:00:00 to 2025-06-22 01:55:30.648872 using API.
+2025-06-22 01:55:32,278 - INFO - Fetched 415 records from the API.
+2025-06-22 01:55:32,278 - INFO - Processing and aggregating 415 records.
+2025-06-22 01:55:32,285 - INFO - Aggregated data to 7 records.
+2025-06-22 01:55:32,285 - INFO - Adding features to 7 records.
+2025-06-22 01:55:32,288 - INFO - Feature engineering completed with 0 records.
+2025-06-22 01:55:32,288 - WARNING - No valid data after processing. Skipping storage.
