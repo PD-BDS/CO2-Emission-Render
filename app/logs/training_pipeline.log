@@ -5314,3 +5314,7 @@
 2025-06-26 01:48:58,166 - INFO - ✅ Model training completed. Best validation loss: 0.006962
 2025-06-26 01:48:58,572 - INFO - ✅ All records inserted for model_id=190
 2025-06-26 01:48:58,586 - INFO - ✅ Predictions logged from 2025-06-25 19:00:00 to 2025-06-26 00:00:00.
+2025-06-26 06:33:42,082 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-06-26 06:33:42,091 - INFO - ✅ Evaluation and predictions logged for model_id=190
+2025-06-26 06:33:42,091 - INFO - ✅ Evaluation of latest predictions logged.
+2025-06-26 06:33:42,108 - INFO - ✅ Predictions logged from 2025-06-26 07:00:00 to 2025-06-26 12:00:00.
