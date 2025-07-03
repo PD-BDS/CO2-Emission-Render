@@ -5899,3 +5899,7 @@
 2025-07-03 01:49:25,459 - INFO - ✅ Model training completed. Best validation loss: 0.007745
 2025-07-03 01:49:25,889 - INFO - ✅ All records inserted for model_id=214
 2025-07-03 01:49:25,902 - INFO - ✅ Predictions logged from 2025-07-02 19:00:00 to 2025-07-03 00:00:00.
+2025-07-03 06:33:55,446 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-03 06:33:55,454 - INFO - ✅ Evaluation and predictions logged for model_id=214
+2025-07-03 06:33:55,455 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-03 06:33:55,471 - INFO - ✅ Predictions logged from 2025-07-03 07:00:00 to 2025-07-03 12:00:00.
