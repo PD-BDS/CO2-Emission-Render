@@ -6178,3 +6178,27 @@
 2025-07-07 01:55:09,750 - INFO - ✅ Model training completed. Best validation loss: 0.007417
 2025-07-07 01:55:10,153 - INFO - ✅ All records inserted for model_id=226
 2025-07-07 01:55:10,169 - INFO - ✅ Predictions logged from 2025-07-06 19:00:00 to 2025-07-07 00:00:00.
+2025-07-07 06:35:04,989 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-07 06:35:04,998 - INFO - ✅ Evaluation and predictions logged for model_id=226
+2025-07-07 06:35:04,999 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-07 06:35:04,999 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-07-07 06:35:11,290 - INFO - Epoch 1: Validation Loss = 0.011270
+2025-07-07 06:35:16,281 - INFO - Epoch 2: Validation Loss = 0.010249
+2025-07-07 06:35:21,312 - INFO - Epoch 3: Validation Loss = 0.010812
+2025-07-07 06:35:26,251 - INFO - Epoch 4: Validation Loss = 0.008768
+2025-07-07 06:35:31,297 - INFO - Epoch 5: Validation Loss = 0.007955
+2025-07-07 06:35:36,414 - INFO - Epoch 6: Validation Loss = 0.007857
+2025-07-07 06:35:41,474 - INFO - Epoch 7: Validation Loss = 0.007872
+2025-07-07 06:35:46,586 - INFO - Epoch 8: Validation Loss = 0.008014
+2025-07-07 06:35:51,682 - INFO - Epoch 9: Validation Loss = 0.007959
+2025-07-07 06:35:56,762 - INFO - Epoch 10: Validation Loss = 0.007601
+2025-07-07 06:36:01,871 - INFO - Epoch 11: Validation Loss = 0.007549
+2025-07-07 06:36:07,033 - INFO - Epoch 12: Validation Loss = 0.007748
+2025-07-07 06:36:12,184 - INFO - Epoch 13: Validation Loss = 0.007902
+2025-07-07 06:36:17,293 - INFO - Epoch 14: Validation Loss = 0.008267
+2025-07-07 06:36:22,486 - INFO - Epoch 15: Validation Loss = 0.008360
+2025-07-07 06:36:27,652 - INFO - Epoch 16: Validation Loss = 0.007711
+2025-07-07 06:36:27,652 - INFO - ⛔ Early stopping triggered.
+2025-07-07 06:36:27,652 - INFO - ✅ Model training completed. Best validation loss: 0.007549
+2025-07-07 06:36:28,053 - INFO - ✅ All records inserted for model_id=227
+2025-07-07 06:36:28,066 - INFO - ✅ Predictions logged from 2025-07-07 07:00:00 to 2025-07-07 12:00:00.
