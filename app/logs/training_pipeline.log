@@ -6759,3 +6759,7 @@
 2025-07-14 06:36:06,614 - INFO - ✅ Evaluation and predictions logged for model_id=250
 2025-07-14 06:36:06,614 - INFO - ✅ Evaluation of latest predictions logged.
 2025-07-14 06:36:06,630 - INFO - ✅ Predictions logged from 2025-07-14 07:00:00 to 2025-07-14 12:00:00.
+2025-07-14 12:47:31,449 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-14 12:47:31,460 - INFO - ✅ Evaluation and predictions logged for model_id=250
+2025-07-14 12:47:31,460 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-14 12:47:31,475 - INFO - ✅ Predictions logged from 2025-07-14 07:00:00 to 2025-07-14 12:00:00.
