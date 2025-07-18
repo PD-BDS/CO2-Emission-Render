@@ -7018,3 +7018,29 @@
 2025-07-18 06:35:58,556 - INFO - ✅ Model training completed. Best validation loss: 0.007518
 2025-07-18 06:35:58,927 - INFO - ✅ All records inserted for model_id=260
 2025-07-18 06:35:58,941 - INFO - ✅ Predictions logged from 2025-07-18 02:00:00 to 2025-07-18 07:00:00.
+2025-07-18 12:49:11,974 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-18 12:49:11,984 - INFO - ✅ Evaluation and predictions logged for model_id=260
+2025-07-18 12:49:11,984 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-18 12:49:11,984 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-07-18 12:49:18,052 - INFO - Epoch 1: Validation Loss = 0.011604
+2025-07-18 12:49:22,973 - INFO - Epoch 2: Validation Loss = 0.009716
+2025-07-18 12:49:27,946 - INFO - Epoch 3: Validation Loss = 0.016238
+2025-07-18 12:49:32,871 - INFO - Epoch 4: Validation Loss = 0.009500
+2025-07-18 12:49:37,767 - INFO - Epoch 5: Validation Loss = 0.010045
+2025-07-18 12:49:42,675 - INFO - Epoch 6: Validation Loss = 0.008474
+2025-07-18 12:49:47,550 - INFO - Epoch 7: Validation Loss = 0.008245
+2025-07-18 12:49:52,407 - INFO - Epoch 8: Validation Loss = 0.007920
+2025-07-18 12:49:57,287 - INFO - Epoch 9: Validation Loss = 0.008920
+2025-07-18 12:50:02,131 - INFO - Epoch 10: Validation Loss = 0.008059
+2025-07-18 12:50:06,975 - INFO - Epoch 11: Validation Loss = 0.008079
+2025-07-18 12:50:11,794 - INFO - Epoch 12: Validation Loss = 0.008490
+2025-07-18 12:50:16,644 - INFO - Epoch 13: Validation Loss = 0.007898
+2025-07-18 12:50:21,495 - INFO - Epoch 14: Validation Loss = 0.008362
+2025-07-18 12:50:26,364 - INFO - Epoch 15: Validation Loss = 0.008491
+2025-07-18 12:50:31,235 - INFO - Epoch 16: Validation Loss = 0.008389
+2025-07-18 12:50:36,091 - INFO - Epoch 17: Validation Loss = 0.008142
+2025-07-18 12:50:40,946 - INFO - Epoch 18: Validation Loss = 0.008738
+2025-07-18 12:50:40,946 - INFO - ⛔ Early stopping triggered.
+2025-07-18 12:50:40,946 - INFO - ✅ Model training completed. Best validation loss: 0.007898
+2025-07-18 12:50:41,339 - INFO - ✅ All records inserted for model_id=261
+2025-07-18 12:50:41,353 - INFO - ✅ Predictions logged from 2025-07-18 02:00:00 to 2025-07-18 07:00:00.
