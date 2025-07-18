@@ -4072,3 +4072,13 @@
 2025-07-18 01:56:09,124 - INFO - Storing data to database.
 2025-07-18 01:56:09,135 - INFO - Data successfully stored in the database and log updated.
 2025-07-18 01:56:09,136 - INFO - Pipeline executed successfully.
+2025-07-18 06:34:44,341 - INFO - Fetching the last date from the database.
+2025-07-18 06:34:44,342 - INFO - Last date from the database: 2025-07-18 01:00:00
+2025-07-18 06:34:44,343 - INFO - Fetching data from 2025-07-18 02:00:00 to 2025-07-18 06:34:44.343384
+2025-07-18 06:34:44,343 - INFO - Fetching data from 2025-07-18 02:00:00 to 2025-07-18 06:34:44.343384 using API.
+2025-07-18 06:34:45,179 - INFO - Fetched 274 records from the API.
+2025-07-18 06:34:45,180 - INFO - Processing and aggregating 274 records.
+2025-07-18 06:34:45,186 - INFO - Aggregated data to 5 records.
+2025-07-18 06:34:45,186 - INFO - Adding features to 5 records.
+2025-07-18 06:34:45,190 - INFO - Feature engineering completed with 0 records.
+2025-07-18 06:34:45,190 - WARNING - No valid data after processing. Skipping storage.
