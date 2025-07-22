@@ -7246,3 +7246,7 @@
 2025-07-22 06:35:22,462 - INFO - ✅ Evaluation and predictions logged for model_id=269
 2025-07-22 06:35:22,462 - INFO - ✅ Evaluation of latest predictions logged.
 2025-07-22 06:35:22,478 - INFO - ✅ Predictions logged from 2025-07-22 07:00:00 to 2025-07-22 12:00:00.
+2025-07-22 12:48:53,031 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-22 12:48:53,042 - INFO - ✅ Evaluation and predictions logged for model_id=269
+2025-07-22 12:48:53,042 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-22 12:48:53,060 - INFO - ✅ Predictions logged from 2025-07-22 07:00:00 to 2025-07-22 12:00:00.
