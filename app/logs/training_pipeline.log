@@ -7317,3 +7317,28 @@
 2025-07-24 12:50:23,386 - INFO - ✅ Evaluation and predictions logged for model_id=271
 2025-07-24 12:50:23,386 - INFO - ✅ Evaluation of latest predictions logged.
 2025-07-24 12:50:23,401 - INFO - ✅ Predictions logged from 2025-07-24 07:00:00 to 2025-07-24 12:00:00.
+2025-07-24 18:34:05,840 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-24 18:34:05,849 - INFO - ✅ Evaluation and predictions logged for model_id=271
+2025-07-24 18:34:05,849 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-24 18:34:05,849 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-07-24 18:34:12,153 - INFO - Epoch 1: Validation Loss = 0.012073
+2025-07-24 18:34:17,166 - INFO - Epoch 2: Validation Loss = 0.010522
+2025-07-24 18:34:22,148 - INFO - Epoch 3: Validation Loss = 0.009575
+2025-07-24 18:34:27,132 - INFO - Epoch 4: Validation Loss = 0.009781
+2025-07-24 18:34:32,129 - INFO - Epoch 5: Validation Loss = 0.008372
+2025-07-24 18:34:37,100 - INFO - Epoch 6: Validation Loss = 0.007835
+2025-07-24 18:34:42,156 - INFO - Epoch 7: Validation Loss = 0.010054
+2025-07-24 18:34:47,196 - INFO - Epoch 8: Validation Loss = 0.007787
+2025-07-24 18:34:52,226 - INFO - Epoch 9: Validation Loss = 0.007900
+2025-07-24 18:34:57,267 - INFO - Epoch 10: Validation Loss = 0.007939
+2025-07-24 18:35:02,297 - INFO - Epoch 11: Validation Loss = 0.007689
+2025-07-24 18:35:07,304 - INFO - Epoch 12: Validation Loss = 0.007662
+2025-07-24 18:35:12,332 - INFO - Epoch 13: Validation Loss = 0.008208
+2025-07-24 18:35:17,352 - INFO - Epoch 14: Validation Loss = 0.008312
+2025-07-24 18:35:22,350 - INFO - Epoch 15: Validation Loss = 0.008276
+2025-07-24 18:35:27,325 - INFO - Epoch 16: Validation Loss = 0.007918
+2025-07-24 18:35:32,312 - INFO - Epoch 17: Validation Loss = 0.008152
+2025-07-24 18:35:32,312 - INFO - ⛔ Early stopping triggered.
+2025-07-24 18:35:32,312 - INFO - ✅ Model training completed. Best validation loss: 0.007662
+2025-07-24 18:35:32,810 - INFO - ✅ All records inserted for model_id=272
+2025-07-24 18:35:32,823 - INFO - ✅ Predictions logged from 2025-07-24 19:00:00 to 2025-07-25 00:00:00.
