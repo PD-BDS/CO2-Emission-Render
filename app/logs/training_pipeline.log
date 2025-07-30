@@ -7706,3 +7706,7 @@
 2025-07-30 06:37:29,908 - INFO - ✅ Evaluation and predictions logged for model_id=287
 2025-07-30 06:37:29,908 - INFO - ✅ Evaluation of latest predictions logged.
 2025-07-30 06:37:29,922 - INFO - ✅ Predictions logged from 2025-07-30 07:00:00 to 2025-07-30 12:00:00.
+2025-07-30 12:51:04,095 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-07-30 12:51:04,105 - INFO - ✅ Evaluation and predictions logged for model_id=287
+2025-07-30 12:51:04,105 - INFO - ✅ Evaluation of latest predictions logged.
+2025-07-30 12:51:04,121 - INFO - ✅ Predictions logged from 2025-07-30 07:00:00 to 2025-07-30 12:00:00.
