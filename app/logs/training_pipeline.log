@@ -7902,3 +7902,7 @@
 2025-08-02 06:32:34,047 - INFO - ✅ Evaluation and predictions logged for model_id=295
 2025-08-02 06:32:34,047 - INFO - ✅ Evaluation of latest predictions logged.
 2025-08-02 06:32:34,064 - INFO - ✅ Predictions logged from 2025-08-02 07:00:00 to 2025-08-02 12:00:00.
+2025-08-02 12:43:28,683 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-08-02 12:43:28,693 - INFO - ✅ Evaluation and predictions logged for model_id=295
+2025-08-02 12:43:28,693 - INFO - ✅ Evaluation of latest predictions logged.
+2025-08-02 12:43:28,710 - INFO - ✅ Predictions logged from 2025-08-02 07:00:00 to 2025-08-02 12:00:00.
