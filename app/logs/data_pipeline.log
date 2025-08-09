@@ -5028,3 +5028,13 @@
 2025-08-08 18:32:42,429 - INFO - Storing data to database.
 2025-08-08 18:32:42,442 - INFO - Data successfully stored in the database and log updated.
 2025-08-08 18:32:42,443 - INFO - Pipeline executed successfully.
+2025-08-09 01:48:01,281 - INFO - Fetching the last date from the database.
+2025-08-09 01:48:01,283 - INFO - Last date from the database: 2025-08-08 18:00:00
+2025-08-09 01:48:01,284 - INFO - Fetching data from 2025-08-08 19:00:00 to 2025-08-09 01:48:01.284475
+2025-08-09 01:48:01,284 - INFO - Fetching data from 2025-08-08 19:00:00 to 2025-08-09 01:48:01.284475 using API.
+2025-08-09 01:48:02,623 - INFO - Fetched 408 records from the API.
+2025-08-09 01:48:02,624 - INFO - Processing and aggregating 408 records.
+2025-08-09 01:48:02,631 - INFO - Aggregated data to 7 records.
+2025-08-09 01:48:02,631 - INFO - Adding features to 7 records.
+2025-08-09 01:48:02,634 - INFO - Feature engineering completed with 0 records.
+2025-08-09 01:48:02,634 - WARNING - No valid data after processing. Skipping storage.
