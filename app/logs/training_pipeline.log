@@ -8675,3 +8675,7 @@
 2025-08-12 18:34:36,991 - INFO - ✅ Evaluation and predictions logged for model_id=325
 2025-08-12 18:34:36,992 - INFO - ✅ Evaluation of latest predictions logged.
 2025-08-12 18:34:37,009 - INFO - ✅ Predictions logged from 2025-08-12 19:00:00 to 2025-08-13 00:00:00.
+2025-08-13 01:48:58,157 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-08-13 01:48:58,168 - INFO - ✅ Evaluation and predictions logged for model_id=325
+2025-08-13 01:48:58,168 - INFO - ✅ Evaluation of latest predictions logged.
+2025-08-13 01:48:58,187 - INFO - ✅ Predictions logged from 2025-08-12 19:00:00 to 2025-08-13 00:00:00.
