@@ -9233,3 +9233,28 @@
 2025-08-21 18:31:51,987 - INFO - ✅ Model training completed. Best validation loss: 0.007892
 2025-08-21 18:31:52,374 - INFO - ✅ All records inserted for model_id=346
 2025-08-21 18:31:52,387 - INFO - ✅ Predictions logged from 2025-08-21 19:00:00 to 2025-08-22 00:00:00.
+2025-08-22 01:42:05,193 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-08-22 01:42:05,209 - INFO - ✅ Evaluation and predictions logged for model_id=346
+2025-08-22 01:42:05,209 - INFO - ✅ Evaluation of latest predictions logged.
+2025-08-22 01:42:05,210 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-08-22 01:42:10,919 - INFO - Epoch 1: Validation Loss = 0.011403
+2025-08-22 01:42:15,472 - INFO - Epoch 2: Validation Loss = 0.010001
+2025-08-22 01:42:19,982 - INFO - Epoch 3: Validation Loss = 0.009498
+2025-08-22 01:42:24,507 - INFO - Epoch 4: Validation Loss = 0.008829
+2025-08-22 01:42:29,015 - INFO - Epoch 5: Validation Loss = 0.008650
+2025-08-22 01:42:33,501 - INFO - Epoch 6: Validation Loss = 0.008802
+2025-08-22 01:42:38,073 - INFO - Epoch 7: Validation Loss = 0.008428
+2025-08-22 01:42:42,570 - INFO - Epoch 8: Validation Loss = 0.007898
+2025-08-22 01:42:47,041 - INFO - Epoch 9: Validation Loss = 0.008101
+2025-08-22 01:42:51,500 - INFO - Epoch 10: Validation Loss = 0.008056
+2025-08-22 01:42:56,002 - INFO - Epoch 11: Validation Loss = 0.007978
+2025-08-22 01:43:00,504 - INFO - Epoch 12: Validation Loss = 0.007574
+2025-08-22 01:43:04,985 - INFO - Epoch 13: Validation Loss = 0.008060
+2025-08-22 01:43:09,473 - INFO - Epoch 14: Validation Loss = 0.008483
+2025-08-22 01:43:13,939 - INFO - Epoch 15: Validation Loss = 0.008128
+2025-08-22 01:43:18,431 - INFO - Epoch 16: Validation Loss = 0.007921
+2025-08-22 01:43:22,928 - INFO - Epoch 17: Validation Loss = 0.008024
+2025-08-22 01:43:22,928 - INFO - ⛔ Early stopping triggered.
+2025-08-22 01:43:22,928 - INFO - ✅ Model training completed. Best validation loss: 0.007574
+2025-08-22 01:43:23,320 - INFO - ✅ All records inserted for model_id=347
+2025-08-22 01:43:23,335 - INFO - ✅ Predictions logged from 2025-08-21 19:00:00 to 2025-08-22 00:00:00.
