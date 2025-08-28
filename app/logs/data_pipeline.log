@@ -5886,3 +5886,9 @@
 2025-08-28 06:32:23,782 - INFO - Storing data to database.
 2025-08-28 06:32:23,793 - INFO - Data successfully stored in the database and log updated.
 2025-08-28 06:32:23,795 - INFO - Pipeline executed successfully.
+2025-08-28 12:42:51,714 - INFO - Fetching the last date from the database.
+2025-08-28 12:42:51,715 - INFO - Last date from the database: 2025-08-28 06:00:00
+2025-08-28 12:42:51,716 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-28 12:42:51.716555
+2025-08-28 12:42:51,716 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-28 12:42:51.716555 using API.
+2025-08-28 12:42:52,133 - ERROR - API request failed with status code 403.
+2025-08-28 12:42:52,134 - WARNING - No data fetched. Skipping pipeline execution.
