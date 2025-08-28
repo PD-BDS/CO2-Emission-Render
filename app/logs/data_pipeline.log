@@ -5892,3 +5892,9 @@
 2025-08-28 12:42:51,716 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-28 12:42:51.716555 using API.
 2025-08-28 12:42:52,133 - ERROR - API request failed with status code 403.
 2025-08-28 12:42:52,134 - WARNING - No data fetched. Skipping pipeline execution.
+2025-08-28 18:30:41,652 - INFO - Fetching the last date from the database.
+2025-08-28 18:30:41,654 - INFO - Last date from the database: 2025-08-28 06:00:00
+2025-08-28 18:30:41,655 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-28 18:30:41.655264
+2025-08-28 18:30:41,655 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-28 18:30:41.655264 using API.
+2025-08-28 18:31:01,939 - ERROR - API request failed with status code 403.
+2025-08-28 18:31:01,941 - WARNING - No data fetched. Skipping pipeline execution.
