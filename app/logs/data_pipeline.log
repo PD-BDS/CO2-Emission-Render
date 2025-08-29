@@ -5904,3 +5904,15 @@
 2025-08-29 01:39:28,786 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-29 01:39:28.786878 using API.
 2025-08-29 01:40:04,109 - ERROR - API request failed with status code 403.
 2025-08-29 01:40:04,110 - WARNING - No data fetched. Skipping pipeline execution.
+2025-08-29 06:31:48,102 - INFO - Fetching the last date from the database.
+2025-08-29 06:31:48,105 - INFO - Last date from the database: 2025-08-28 06:00:00
+2025-08-29 06:31:48,105 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-29 06:31:48.105684
+2025-08-29 06:31:48,105 - INFO - Fetching data from 2025-08-28 07:00:00 to 2025-08-29 06:31:48.105684 using API.
+2025-08-29 06:33:28,469 - INFO - Fetched 1410 records from the API.
+2025-08-29 06:33:28,471 - INFO - Processing and aggregating 1410 records.
+2025-08-29 06:33:28,477 - INFO - Aggregated data to 24 records.
+2025-08-29 06:33:28,478 - INFO - Adding features to 24 records.
+2025-08-29 06:33:28,481 - INFO - Feature engineering completed with 13 records.
+2025-08-29 06:33:28,481 - INFO - Storing data to database.
+2025-08-29 06:33:28,490 - INFO - Data successfully stored in the database and log updated.
+2025-08-29 06:33:28,491 - INFO - Pipeline executed successfully.
