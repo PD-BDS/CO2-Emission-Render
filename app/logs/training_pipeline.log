@@ -9859,3 +9859,7 @@
 2025-08-31 01:43:57,451 - INFO - ✅ Evaluation and predictions logged for model_id=371
 2025-08-31 01:43:57,452 - INFO - ✅ Evaluation of latest predictions logged.
 2025-08-31 01:43:57,470 - INFO - ✅ Predictions logged from 2025-08-30 19:00:00 to 2025-08-31 00:00:00.
+2025-08-31 06:29:18,678 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-08-31 06:29:18,686 - INFO - ✅ Evaluation and predictions logged for model_id=371
+2025-08-31 06:29:18,686 - INFO - ✅ Evaluation of latest predictions logged.
+2025-08-31 06:29:18,703 - INFO - ✅ Predictions logged from 2025-08-31 07:00:00 to 2025-08-31 12:00:00.
