@@ -9927,3 +9927,7 @@
 2025-09-01 12:44:05,854 - INFO - ✅ Evaluation and predictions logged for model_id=373
 2025-09-01 12:44:05,854 - INFO - ✅ Evaluation of latest predictions logged.
 2025-09-01 12:44:05,873 - INFO - ✅ Predictions logged from 2025-09-01 07:00:00 to 2025-09-01 12:00:00.
+2025-09-01 18:50:14,858 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-01 18:50:14,867 - INFO - ✅ Evaluation and predictions logged for model_id=373
+2025-09-01 18:50:14,867 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-01 18:50:14,885 - INFO - ✅ Predictions logged from 2025-09-01 19:00:00 to 2025-09-02 00:00:00.
