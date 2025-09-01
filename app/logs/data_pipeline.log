@@ -6026,3 +6026,13 @@
 2025-08-31 18:27:53,037 - INFO - Storing data to database.
 2025-08-31 18:27:53,050 - INFO - Data successfully stored in the database and log updated.
 2025-08-31 18:27:53,051 - INFO - Pipeline executed successfully.
+2025-09-01 01:53:35,264 - INFO - Fetching the last date from the database.
+2025-09-01 01:53:35,267 - INFO - Last date from the database: 2025-08-31 18:00:00
+2025-09-01 01:53:35,267 - INFO - Fetching data from 2025-08-31 19:00:00 to 2025-09-01 01:53:35.267643
+2025-09-01 01:53:35,267 - INFO - Fetching data from 2025-08-31 19:00:00 to 2025-09-01 01:53:35.267643 using API.
+2025-09-01 01:53:36,237 - INFO - Fetched 413 records from the API.
+2025-09-01 01:53:36,238 - INFO - Processing and aggregating 413 records.
+2025-09-01 01:53:36,245 - INFO - Aggregated data to 7 records.
+2025-09-01 01:53:36,245 - INFO - Adding features to 7 records.
+2025-09-01 01:53:36,249 - INFO - Feature engineering completed with 0 records.
+2025-09-01 01:53:36,249 - WARNING - No valid data after processing. Skipping storage.
