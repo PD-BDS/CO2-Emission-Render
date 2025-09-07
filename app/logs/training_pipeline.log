@@ -10173,3 +10173,7 @@
 2025-09-07 06:28:40,805 - INFO - ✅ Evaluation and predictions logged for model_id=382
 2025-09-07 06:28:40,805 - INFO - ✅ Evaluation of latest predictions logged.
 2025-09-07 06:28:40,822 - INFO - ✅ Predictions logged from 2025-09-07 07:00:00 to 2025-09-07 12:00:00.
+2025-09-07 12:38:06,377 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-07 12:38:06,388 - INFO - ✅ Evaluation and predictions logged for model_id=382
+2025-09-07 12:38:06,388 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-07 12:38:06,406 - INFO - ✅ Predictions logged from 2025-09-07 07:00:00 to 2025-09-07 12:00:00.
