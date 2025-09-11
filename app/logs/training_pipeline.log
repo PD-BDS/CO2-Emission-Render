@@ -10443,3 +10443,7 @@
 2025-09-10 18:30:26,355 - INFO - ✅ Evaluation and predictions logged for model_id=394
 2025-09-10 18:30:26,355 - INFO - ✅ Evaluation of latest predictions logged.
 2025-09-10 18:30:26,374 - INFO - ✅ Predictions logged from 2025-09-10 19:00:00 to 2025-09-11 00:00:00.
+2025-09-11 01:29:59,886 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-11 01:29:59,899 - INFO - ✅ Evaluation and predictions logged for model_id=394
+2025-09-11 01:29:59,899 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-11 01:29:59,917 - INFO - ✅ Predictions logged from 2025-09-10 19:00:00 to 2025-09-11 00:00:00.
