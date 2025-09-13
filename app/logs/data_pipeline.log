@@ -6586,3 +6586,15 @@
 2025-09-13 12:37:33,514 - INFO - Adding features to 6 records.
 2025-09-13 12:37:33,517 - INFO - Feature engineering completed with 0 records.
 2025-09-13 12:37:33,517 - WARNING - No valid data after processing. Skipping storage.
+2025-09-13 18:25:35,874 - INFO - Fetching the last date from the database.
+2025-09-13 18:25:35,878 - INFO - Last date from the database: 2025-09-13 06:00:00
+2025-09-13 18:25:35,879 - INFO - Fetching data from 2025-09-13 07:00:00 to 2025-09-13 18:25:35.879266
+2025-09-13 18:25:35,879 - INFO - Fetching data from 2025-09-13 07:00:00 to 2025-09-13 18:25:35.879266 using API.
+2025-09-13 18:25:37,164 - INFO - Fetched 685 records from the API.
+2025-09-13 18:25:37,165 - INFO - Processing and aggregating 685 records.
+2025-09-13 18:25:37,172 - INFO - Aggregated data to 12 records.
+2025-09-13 18:25:37,172 - INFO - Adding features to 12 records.
+2025-09-13 18:25:37,176 - INFO - Feature engineering completed with 1 records.
+2025-09-13 18:25:37,176 - INFO - Storing data to database.
+2025-09-13 18:25:37,186 - INFO - Data successfully stored in the database and log updated.
+2025-09-13 18:25:37,188 - INFO - Pipeline executed successfully.
