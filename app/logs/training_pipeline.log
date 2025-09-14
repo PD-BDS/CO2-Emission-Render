@@ -10620,3 +10620,29 @@
 2025-09-13 18:26:41,555 - INFO - ✅ Model training completed. Best validation loss: 0.008499
 2025-09-13 18:26:41,949 - INFO - ✅ All records inserted for model_id=401
 2025-09-13 18:26:41,962 - INFO - ✅ Predictions logged from 2025-09-13 19:00:00 to 2025-09-14 00:00:00.
+2025-09-14 01:41:29,996 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-14 01:41:30,007 - INFO - ✅ Evaluation and predictions logged for model_id=401
+2025-09-14 01:41:30,007 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-14 01:41:30,008 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-09-14 01:41:35,795 - INFO - Epoch 1: Validation Loss = 0.012730
+2025-09-14 01:41:40,226 - INFO - Epoch 2: Validation Loss = 0.010272
+2025-09-14 01:41:44,520 - INFO - Epoch 3: Validation Loss = 0.009270
+2025-09-14 01:41:48,801 - INFO - Epoch 4: Validation Loss = 0.009170
+2025-09-14 01:41:53,118 - INFO - Epoch 5: Validation Loss = 0.009174
+2025-09-14 01:41:57,624 - INFO - Epoch 6: Validation Loss = 0.009508
+2025-09-14 01:42:02,052 - INFO - Epoch 7: Validation Loss = 0.008721
+2025-09-14 01:42:06,472 - INFO - Epoch 8: Validation Loss = 0.008742
+2025-09-14 01:42:10,915 - INFO - Epoch 9: Validation Loss = 0.009040
+2025-09-14 01:42:15,250 - INFO - Epoch 10: Validation Loss = 0.010159
+2025-09-14 01:42:19,610 - INFO - Epoch 11: Validation Loss = 0.008544
+2025-09-14 01:42:23,972 - INFO - Epoch 12: Validation Loss = 0.009218
+2025-09-14 01:42:28,311 - INFO - Epoch 13: Validation Loss = 0.008492
+2025-09-14 01:42:32,684 - INFO - Epoch 14: Validation Loss = 0.008686
+2025-09-14 01:42:37,032 - INFO - Epoch 15: Validation Loss = 0.009247
+2025-09-14 01:42:41,416 - INFO - Epoch 16: Validation Loss = 0.010021
+2025-09-14 01:42:45,808 - INFO - Epoch 17: Validation Loss = 0.009898
+2025-09-14 01:42:50,230 - INFO - Epoch 18: Validation Loss = 0.009228
+2025-09-14 01:42:50,230 - INFO - ⛔ Early stopping triggered.
+2025-09-14 01:42:50,230 - INFO - ✅ Model training completed. Best validation loss: 0.008492
+2025-09-14 01:42:50,618 - INFO - ✅ All records inserted for model_id=402
+2025-09-14 01:42:50,630 - INFO - ✅ Predictions logged from 2025-09-13 19:00:00 to 2025-09-14 00:00:00.
