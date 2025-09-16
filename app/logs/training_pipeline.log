@@ -10848,3 +10848,25 @@
 2025-09-16 12:44:00,983 - INFO - ✅ Model training completed. Best validation loss: 0.008959
 2025-09-16 12:44:01,347 - INFO - ✅ All records inserted for model_id=410
 2025-09-16 12:44:01,360 - INFO - ✅ Predictions logged from 2025-09-16 07:00:00 to 2025-09-16 12:00:00.
+2025-09-16 18:30:17,544 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-16 18:30:17,554 - INFO - ✅ Evaluation and predictions logged for model_id=410
+2025-09-16 18:30:17,554 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-16 18:30:17,554 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-09-16 18:30:23,072 - INFO - Epoch 1: Validation Loss = 0.012975
+2025-09-16 18:30:27,460 - INFO - Epoch 2: Validation Loss = 0.010551
+2025-09-16 18:30:31,917 - INFO - Epoch 3: Validation Loss = 0.010174
+2025-09-16 18:30:36,375 - INFO - Epoch 4: Validation Loss = 0.009733
+2025-09-16 18:30:40,772 - INFO - Epoch 5: Validation Loss = 0.009036
+2025-09-16 18:30:45,255 - INFO - Epoch 6: Validation Loss = 0.008838
+2025-09-16 18:30:49,699 - INFO - Epoch 7: Validation Loss = 0.009659
+2025-09-16 18:30:54,095 - INFO - Epoch 8: Validation Loss = 0.008833
+2025-09-16 18:30:58,568 - INFO - Epoch 9: Validation Loss = 0.008793
+2025-09-16 18:31:03,023 - INFO - Epoch 10: Validation Loss = 0.009553
+2025-09-16 18:31:07,507 - INFO - Epoch 11: Validation Loss = 0.009483
+2025-09-16 18:31:12,008 - INFO - Epoch 12: Validation Loss = 0.009109
+2025-09-16 18:31:16,495 - INFO - Epoch 13: Validation Loss = 0.008954
+2025-09-16 18:31:20,968 - INFO - Epoch 14: Validation Loss = 0.009437
+2025-09-16 18:31:20,968 - INFO - ⛔ Early stopping triggered.
+2025-09-16 18:31:20,968 - INFO - ✅ Model training completed. Best validation loss: 0.008793
+2025-09-16 18:31:21,337 - INFO - ✅ All records inserted for model_id=411
+2025-09-16 18:31:21,350 - INFO - ✅ Predictions logged from 2025-09-16 19:00:00 to 2025-09-17 00:00:00.
