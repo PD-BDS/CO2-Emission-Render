@@ -7132,3 +7132,13 @@
 2025-09-26 06:31:55,595 - INFO - Adding features to 5 records.
 2025-09-26 06:31:55,599 - INFO - Feature engineering completed with 0 records.
 2025-09-26 06:31:55,599 - WARNING - No valid data after processing. Skipping storage.
+2025-09-26 12:43:30,672 - INFO - Fetching the last date from the database.
+2025-09-26 12:43:30,675 - INFO - Last date from the database: 2025-09-26 01:00:00
+2025-09-26 12:43:30,675 - INFO - Fetching data from 2025-09-26 02:00:00 to 2025-09-26 12:43:30.675803
+2025-09-26 12:43:30,675 - INFO - Fetching data from 2025-09-26 02:00:00 to 2025-09-26 12:43:30.675803 using API.
+2025-09-26 12:43:31,530 - INFO - Fetched 643 records from the API.
+2025-09-26 12:43:31,531 - INFO - Processing and aggregating 643 records.
+2025-09-26 12:43:31,538 - INFO - Aggregated data to 11 records.
+2025-09-26 12:43:31,538 - INFO - Adding features to 11 records.
+2025-09-26 12:43:31,542 - INFO - Feature engineering completed with 0 records.
+2025-09-26 12:43:31,542 - WARNING - No valid data after processing. Skipping storage.
