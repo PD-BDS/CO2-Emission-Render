@@ -11492,3 +11492,7 @@
 2025-09-26 18:29:23,869 - INFO - ✅ Evaluation and predictions logged for model_id=438
 2025-09-26 18:29:23,869 - INFO - ✅ Evaluation of latest predictions logged.
 2025-09-26 18:29:23,885 - INFO - ✅ Predictions logged from 2025-09-26 19:00:00 to 2025-09-27 00:00:00.
+2025-09-27 01:26:02,532 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-27 01:26:02,544 - INFO - ✅ Evaluation and predictions logged for model_id=438
+2025-09-27 01:26:02,545 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-27 01:26:02,562 - INFO - ✅ Predictions logged from 2025-09-26 19:00:00 to 2025-09-27 00:00:00.
