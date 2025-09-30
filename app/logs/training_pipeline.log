@@ -11723,3 +11723,7 @@
 2025-09-30 06:33:04,186 - INFO - ✅ Evaluation and predictions logged for model_id=448
 2025-09-30 06:33:04,186 - INFO - ✅ Evaluation of latest predictions logged.
 2025-09-30 06:33:04,203 - INFO - ✅ Predictions logged from 2025-09-30 07:00:00 to 2025-09-30 12:00:00.
+2025-09-30 12:45:08,935 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-09-30 12:45:08,948 - INFO - ✅ Evaluation and predictions logged for model_id=448
+2025-09-30 12:45:08,949 - INFO - ✅ Evaluation of latest predictions logged.
+2025-09-30 12:45:08,969 - INFO - ✅ Predictions logged from 2025-09-30 07:00:00 to 2025-09-30 12:00:00.
