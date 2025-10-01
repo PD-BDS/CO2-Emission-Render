@@ -11739,3 +11739,7 @@
 2025-10-01 06:32:45,266 - INFO - ✅ Evaluation and predictions logged for model_id=448
 2025-10-01 06:32:45,266 - INFO - ✅ Evaluation of latest predictions logged.
 2025-10-01 06:32:45,284 - INFO - ✅ Predictions logged from 2025-10-01 07:00:00 to 2025-10-01 12:00:00.
+2025-10-01 12:44:42,145 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-10-01 12:44:42,156 - INFO - ✅ Evaluation and predictions logged for model_id=448
+2025-10-01 12:44:42,157 - INFO - ✅ Evaluation of latest predictions logged.
+2025-10-01 12:44:42,174 - INFO - ✅ Predictions logged from 2025-10-01 07:00:00 to 2025-10-01 12:00:00.
