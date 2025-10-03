@@ -11803,3 +11803,27 @@
 2025-10-03 01:28:37,496 - INFO - ✅ Evaluation and predictions logged for model_id=450
 2025-10-03 01:28:37,496 - INFO - ✅ Evaluation of latest predictions logged.
 2025-10-03 01:28:37,514 - INFO - ✅ Predictions logged from 2025-10-02 19:00:00 to 2025-10-03 00:00:00.
+2025-10-03 06:30:56,340 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-10-03 06:30:56,350 - INFO - ✅ Evaluation and predictions logged for model_id=450
+2025-10-03 06:30:56,350 - INFO - ✅ Evaluation of latest predictions logged.
+2025-10-03 06:30:56,351 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-10-03 06:31:01,765 - INFO - Epoch 1: Validation Loss = 0.014314
+2025-10-03 06:31:06,132 - INFO - Epoch 2: Validation Loss = 0.012301
+2025-10-03 06:31:10,567 - INFO - Epoch 3: Validation Loss = 0.010520
+2025-10-03 06:31:15,009 - INFO - Epoch 4: Validation Loss = 0.009630
+2025-10-03 06:31:19,481 - INFO - Epoch 5: Validation Loss = 0.010146
+2025-10-03 06:31:24,025 - INFO - Epoch 6: Validation Loss = 0.009458
+2025-10-03 06:31:28,569 - INFO - Epoch 7: Validation Loss = 0.009401
+2025-10-03 06:31:33,126 - INFO - Epoch 8: Validation Loss = 0.009425
+2025-10-03 06:31:37,605 - INFO - Epoch 9: Validation Loss = 0.009885
+2025-10-03 06:31:42,095 - INFO - Epoch 10: Validation Loss = 0.009279
+2025-10-03 06:31:46,582 - INFO - Epoch 11: Validation Loss = 0.009096
+2025-10-03 06:31:51,069 - INFO - Epoch 12: Validation Loss = 0.009147
+2025-10-03 06:31:55,586 - INFO - Epoch 13: Validation Loss = 0.009610
+2025-10-03 06:32:00,125 - INFO - Epoch 14: Validation Loss = 0.009420
+2025-10-03 06:32:04,613 - INFO - Epoch 15: Validation Loss = 0.009371
+2025-10-03 06:32:09,091 - INFO - Epoch 16: Validation Loss = 0.009479
+2025-10-03 06:32:09,091 - INFO - ⛔ Early stopping triggered.
+2025-10-03 06:32:09,091 - INFO - ✅ Model training completed. Best validation loss: 0.009096
+2025-10-03 06:32:09,497 - INFO - ✅ All records inserted for model_id=451
+2025-10-03 06:32:09,512 - INFO - ✅ Predictions logged from 2025-10-03 07:00:00 to 2025-10-03 12:00:00.
