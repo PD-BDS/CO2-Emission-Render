@@ -11799,3 +11799,7 @@
 2025-10-02 18:30:09,333 - INFO - ✅ Evaluation and predictions logged for model_id=450
 2025-10-02 18:30:09,333 - INFO - ✅ Evaluation of latest predictions logged.
 2025-10-02 18:30:09,349 - INFO - ✅ Predictions logged from 2025-10-02 19:00:00 to 2025-10-03 00:00:00.
+2025-10-03 01:28:37,484 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-10-03 01:28:37,496 - INFO - ✅ Evaluation and predictions logged for model_id=450
+2025-10-03 01:28:37,496 - INFO - ✅ Evaluation of latest predictions logged.
+2025-10-03 01:28:37,514 - INFO - ✅ Predictions logged from 2025-10-02 19:00:00 to 2025-10-03 00:00:00.
