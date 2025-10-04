@@ -11898,3 +11898,27 @@
 2025-10-04 01:26:22,580 - INFO - ✅ Model training completed. Best validation loss: 0.009079
 2025-10-04 01:26:22,985 - INFO - ✅ All records inserted for model_id=454
 2025-10-04 01:26:22,999 - INFO - ✅ Predictions logged from 2025-10-03 19:00:00 to 2025-10-04 00:00:00.
+2025-10-04 06:28:49,664 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-10-04 06:28:49,674 - INFO - ✅ Evaluation and predictions logged for model_id=454
+2025-10-04 06:28:49,674 - INFO - ✅ Evaluation of latest predictions logged.
+2025-10-04 06:28:49,675 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-10-04 06:28:55,145 - INFO - Epoch 1: Validation Loss = 0.012812
+2025-10-04 06:28:59,319 - INFO - Epoch 2: Validation Loss = 0.013201
+2025-10-04 06:29:03,451 - INFO - Epoch 3: Validation Loss = 0.011994
+2025-10-04 06:29:07,618 - INFO - Epoch 4: Validation Loss = 0.010137
+2025-10-04 06:29:11,880 - INFO - Epoch 5: Validation Loss = 0.009618
+2025-10-04 06:29:16,057 - INFO - Epoch 6: Validation Loss = 0.009538
+2025-10-04 06:29:20,142 - INFO - Epoch 7: Validation Loss = 0.009204
+2025-10-04 06:29:24,284 - INFO - Epoch 8: Validation Loss = 0.009045
+2025-10-04 06:29:28,380 - INFO - Epoch 9: Validation Loss = 0.009277
+2025-10-04 06:29:32,478 - INFO - Epoch 10: Validation Loss = 0.009637
+2025-10-04 06:29:36,567 - INFO - Epoch 11: Validation Loss = 0.008795
+2025-10-04 06:29:40,685 - INFO - Epoch 12: Validation Loss = 0.008900
+2025-10-04 06:29:44,769 - INFO - Epoch 13: Validation Loss = 0.008979
+2025-10-04 06:29:48,693 - INFO - Epoch 14: Validation Loss = 0.009573
+2025-10-04 06:29:52,802 - INFO - Epoch 15: Validation Loss = 0.009610
+2025-10-04 06:29:56,873 - INFO - Epoch 16: Validation Loss = 0.009360
+2025-10-04 06:29:56,873 - INFO - ⛔ Early stopping triggered.
+2025-10-04 06:29:56,873 - INFO - ✅ Model training completed. Best validation loss: 0.008795
+2025-10-04 06:29:57,254 - INFO - ✅ All records inserted for model_id=455
+2025-10-04 06:29:57,268 - INFO - ✅ Predictions logged from 2025-10-04 07:00:00 to 2025-10-04 12:00:00.
