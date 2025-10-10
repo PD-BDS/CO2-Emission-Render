@@ -12208,3 +12208,28 @@
 2025-10-10 12:44:18,228 - INFO - ✅ Model training completed. Best validation loss: 0.009887
 2025-10-10 12:44:18,587 - INFO - ✅ All records inserted for model_id=466
 2025-10-10 12:44:18,600 - INFO - ✅ Predictions logged from 2025-10-10 07:00:00 to 2025-10-10 12:00:00.
+2025-10-10 18:31:20,927 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-10-10 18:31:20,939 - INFO - ✅ Evaluation and predictions logged for model_id=466
+2025-10-10 18:31:20,939 - INFO - ✅ Evaluation of latest predictions logged.
+2025-10-10 18:31:20,939 - INFO - 🚨 Pseudo accuracy too low. Retraining triggered.
+2025-10-10 18:31:26,412 - INFO - Epoch 1: Validation Loss = 0.014405
+2025-10-10 18:31:30,790 - INFO - Epoch 2: Validation Loss = 0.012596
+2025-10-10 18:31:35,204 - INFO - Epoch 3: Validation Loss = 0.011653
+2025-10-10 18:31:39,735 - INFO - Epoch 4: Validation Loss = 0.010762
+2025-10-10 18:31:44,218 - INFO - Epoch 5: Validation Loss = 0.010354
+2025-10-10 18:31:48,668 - INFO - Epoch 6: Validation Loss = 0.010325
+2025-10-10 18:31:53,095 - INFO - Epoch 7: Validation Loss = 0.010917
+2025-10-10 18:31:57,554 - INFO - Epoch 8: Validation Loss = 0.010632
+2025-10-10 18:32:01,973 - INFO - Epoch 9: Validation Loss = 0.010620
+2025-10-10 18:32:06,392 - INFO - Epoch 10: Validation Loss = 0.010318
+2025-10-10 18:32:10,879 - INFO - Epoch 11: Validation Loss = 0.009814
+2025-10-10 18:32:15,339 - INFO - Epoch 12: Validation Loss = 0.009727
+2025-10-10 18:32:19,799 - INFO - Epoch 13: Validation Loss = 0.010447
+2025-10-10 18:32:24,230 - INFO - Epoch 14: Validation Loss = 0.010476
+2025-10-10 18:32:28,684 - INFO - Epoch 15: Validation Loss = 0.009970
+2025-10-10 18:32:33,128 - INFO - Epoch 16: Validation Loss = 0.010144
+2025-10-10 18:32:37,568 - INFO - Epoch 17: Validation Loss = 0.010373
+2025-10-10 18:32:37,568 - INFO - ⛔ Early stopping triggered.
+2025-10-10 18:32:37,568 - INFO - ✅ Model training completed. Best validation loss: 0.009727
+2025-10-10 18:32:37,963 - INFO - ✅ All records inserted for model_id=467
+2025-10-10 18:32:37,978 - INFO - ✅ Predictions logged from 2025-10-10 19:00:00 to 2025-10-11 00:00:00.
