@@ -12309,3 +12309,7 @@
 2025-10-12 18:27:49,181 - INFO - ✅ Evaluation and predictions logged for model_id=470
 2025-10-12 18:27:49,181 - INFO - ✅ Evaluation of latest predictions logged.
 2025-10-12 18:27:49,197 - INFO - ✅ Predictions logged from 2025-10-12 19:00:00 to 2025-10-13 00:00:00.
+2025-10-13 01:44:12,759 - INFO - 🔍 Starting evaluation of last 6 predictions...
+2025-10-13 01:44:12,772 - INFO - ✅ Evaluation and predictions logged for model_id=470
+2025-10-13 01:44:12,772 - INFO - ✅ Evaluation of latest predictions logged.
+2025-10-13 01:44:12,793 - INFO - ✅ Predictions logged from 2025-10-12 19:00:00 to 2025-10-13 00:00:00.
