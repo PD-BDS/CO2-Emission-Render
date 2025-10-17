@@ -8034,3 +8034,13 @@
 2025-10-16 18:36:07,352 - INFO - Storing data to database.
 2025-10-16 18:36:07,362 - INFO - Data successfully stored in the database and log updated.
 2025-10-16 18:36:07,364 - INFO - Pipeline executed successfully.
+2025-10-17 01:38:32,960 - INFO - Fetching the last date from the database.
+2025-10-17 01:38:32,962 - INFO - Last date from the database: 2025-10-16 18:00:00
+2025-10-17 01:38:32,962 - INFO - Fetching data from 2025-10-16 19:00:00 to 2025-10-17 01:38:32.962923
+2025-10-17 01:38:32,962 - INFO - Fetching data from 2025-10-16 19:00:00 to 2025-10-17 01:38:32.962923 using API.
+2025-10-17 01:38:33,950 - INFO - Fetched 398 records from the API.
+2025-10-17 01:38:33,951 - INFO - Processing and aggregating 398 records.
+2025-10-17 01:38:33,958 - INFO - Aggregated data to 7 records.
+2025-10-17 01:38:33,958 - INFO - Adding features to 7 records.
+2025-10-17 01:38:33,962 - INFO - Feature engineering completed with 0 records.
+2025-10-17 01:38:33,962 - WARNING - No valid data after processing. Skipping storage.
