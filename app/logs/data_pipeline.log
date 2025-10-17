@@ -8056,3 +8056,13 @@
 2025-10-17 06:31:59,774 - INFO - Storing data to database.
 2025-10-17 06:31:59,788 - INFO - Data successfully stored in the database and log updated.
 2025-10-17 06:31:59,789 - INFO - Pipeline executed successfully.
+2025-10-17 12:43:33,700 - INFO - Fetching the last date from the database.
+2025-10-17 12:43:33,702 - INFO - Last date from the database: 2025-10-17 06:00:00
+2025-10-17 12:43:33,702 - INFO - Fetching data from 2025-10-17 07:00:00 to 2025-10-17 12:43:33.702600
+2025-10-17 12:43:33,702 - INFO - Fetching data from 2025-10-17 07:00:00 to 2025-10-17 12:43:33.702600 using API.
+2025-10-17 12:43:34,451 - INFO - Fetched 343 records from the API.
+2025-10-17 12:43:34,453 - INFO - Processing and aggregating 343 records.
+2025-10-17 12:43:34,459 - INFO - Aggregated data to 6 records.
+2025-10-17 12:43:34,459 - INFO - Adding features to 6 records.
+2025-10-17 12:43:34,463 - INFO - Feature engineering completed with 0 records.
+2025-10-17 12:43:34,463 - WARNING - No valid data after processing. Skipping storage.
