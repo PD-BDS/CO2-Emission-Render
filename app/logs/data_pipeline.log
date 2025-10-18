@@ -8078,3 +8078,13 @@
 2025-10-17 18:28:58,853 - INFO - Storing data to database.
 2025-10-17 18:28:58,864 - INFO - Data successfully stored in the database and log updated.
 2025-10-17 18:28:58,865 - INFO - Pipeline executed successfully.
+2025-10-18 01:28:21,668 - INFO - Fetching the last date from the database.
+2025-10-18 01:28:21,670 - INFO - Last date from the database: 2025-10-17 18:00:00
+2025-10-18 01:28:21,671 - INFO - Fetching data from 2025-10-17 19:00:00 to 2025-10-18 01:28:21.671106
+2025-10-18 01:28:21,671 - INFO - Fetching data from 2025-10-17 19:00:00 to 2025-10-18 01:28:21.671106 using API.
+2025-10-18 01:28:22,997 - INFO - Fetched 388 records from the API.
+2025-10-18 01:28:22,998 - INFO - Processing and aggregating 388 records.
+2025-10-18 01:28:23,005 - INFO - Aggregated data to 7 records.
+2025-10-18 01:28:23,005 - INFO - Adding features to 7 records.
+2025-10-18 01:28:23,009 - INFO - Feature engineering completed with 0 records.
+2025-10-18 01:28:23,009 - WARNING - No valid data after processing. Skipping storage.
