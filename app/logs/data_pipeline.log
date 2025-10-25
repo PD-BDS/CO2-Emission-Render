@@ -8386,3 +8386,13 @@
 2025-10-24 18:30:20,581 - INFO - Storing data to database.
 2025-10-24 18:30:20,592 - INFO - Data successfully stored in the database and log updated.
 2025-10-24 18:30:20,594 - INFO - Pipeline executed successfully.
+2025-10-25 01:30:19,776 - INFO - Fetching the last date from the database.
+2025-10-25 01:30:19,778 - INFO - Last date from the database: 2025-10-24 18:00:00
+2025-10-25 01:30:19,779 - INFO - Fetching data from 2025-10-24 19:00:00 to 2025-10-25 01:30:19.779076
+2025-10-25 01:30:19,779 - INFO - Fetching data from 2025-10-24 19:00:00 to 2025-10-25 01:30:19.779076 using API.
+2025-10-25 01:30:21,044 - INFO - Fetched 390 records from the API.
+2025-10-25 01:30:21,046 - INFO - Processing and aggregating 390 records.
+2025-10-25 01:30:21,052 - INFO - Aggregated data to 7 records.
+2025-10-25 01:30:21,052 - INFO - Adding features to 7 records.
+2025-10-25 01:30:21,056 - INFO - Feature engineering completed with 0 records.
+2025-10-25 01:30:21,056 - WARNING - No valid data after processing. Skipping storage.
