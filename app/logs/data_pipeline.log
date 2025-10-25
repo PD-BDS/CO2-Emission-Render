@@ -8408,3 +8408,13 @@
 2025-10-25 06:29:28,055 - INFO - Storing data to database.
 2025-10-25 06:29:28,064 - INFO - Data successfully stored in the database and log updated.
 2025-10-25 06:29:28,065 - INFO - Pipeline executed successfully.
+2025-10-25 12:39:13,191 - INFO - Fetching the last date from the database.
+2025-10-25 12:39:13,193 - INFO - Last date from the database: 2025-10-25 06:00:00
+2025-10-25 12:39:13,194 - INFO - Fetching data from 2025-10-25 07:00:00 to 2025-10-25 12:39:13.193992
+2025-10-25 12:39:13,194 - INFO - Fetching data from 2025-10-25 07:00:00 to 2025-10-25 12:39:13.193992 using API.
+2025-10-25 12:39:14,150 - INFO - Fetched 339 records from the API.
+2025-10-25 12:39:14,152 - INFO - Processing and aggregating 339 records.
+2025-10-25 12:39:14,158 - INFO - Aggregated data to 6 records.
+2025-10-25 12:39:14,158 - INFO - Adding features to 6 records.
+2025-10-25 12:39:14,162 - INFO - Feature engineering completed with 0 records.
+2025-10-25 12:39:14,162 - WARNING - No valid data after processing. Skipping storage.
