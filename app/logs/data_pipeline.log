@@ -8540,3 +8540,13 @@
 2025-10-28 06:34:21,909 - INFO - Storing data to database.
 2025-10-28 06:34:21,918 - INFO - Data successfully stored in the database and log updated.
 2025-10-28 06:34:21,920 - INFO - Pipeline executed successfully.
+2025-10-28 12:44:21,424 - INFO - Fetching the last date from the database.
+2025-10-28 12:44:21,426 - INFO - Last date from the database: 2025-10-28 06:00:00
+2025-10-28 12:44:21,427 - INFO - Fetching data from 2025-10-28 07:00:00 to 2025-10-28 12:44:21.427093
+2025-10-28 12:44:21,427 - INFO - Fetching data from 2025-10-28 07:00:00 to 2025-10-28 12:44:21.427093 using API.
+2025-10-28 12:44:22,238 - INFO - Fetched 344 records from the API.
+2025-10-28 12:44:22,239 - INFO - Processing and aggregating 344 records.
+2025-10-28 12:44:22,246 - INFO - Aggregated data to 6 records.
+2025-10-28 12:44:22,246 - INFO - Adding features to 6 records.
+2025-10-28 12:44:22,250 - INFO - Feature engineering completed with 0 records.
+2025-10-28 12:44:22,250 - WARNING - No valid data after processing. Skipping storage.
